@@ -1,0 +1,95 @@
+{
+  "sheet": "0250",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-cz4x4t2y",
+      "text": "مریخ چون او و افتاب بیست درجه بماند ناپدید شود و چون بیست درجه از افتاب بگذرد پیدا",
+      "en": "Mars, when it and the Sun remain twenty degrees apart, becomes invisible, and when it passes twenty degrees from the Sun, it appears."
+    },
+    {
+      "n": 2,
+      "id": "L-m6vz8hvg",
+      "text": "شود و چون افتاب از آن نود درجه بگذرد راجع شود و چون افتاب بنود درجه او رسد",
+      "en": "And when the Sun passes ninety degrees from it, it becomes retrograde, and when the Sun reaches ninety degrees from it,"
+    },
+    {
+      "n": 3,
+      "id": "L-nq8kgqxx",
+      "text": "مستقیم شود زهره چون میان آن و افتاب هشت درجه بماند ناپدید شود و چون از افتاب",
+      "en": "it becomes direct. Venus, when between it and the Sun eight degrees remain, becomes invisible, and when from the Sun"
+    },
+    {
+      "n": 4,
+      "id": "L-87hkvznm",
+      "text": "هشت درجه بگذرد راجع شود و چون افتاب بچهل و هشت درجه رسد مستقیم شود عطارد چون",
+      "en": "it passes eight degrees, it becomes retrograde, and when the Sun reaches forty-eight degrees, it becomes direct. Mercury, when"
+    },
+    {
+      "n": 5,
+      "id": "L-dubcect5",
+      "text": "میان او و افتاب سیزده درجه شود ناپدید شود و چون سیزده درجه بگذرد پیدا شود و",
+      "en": "between it and the Sun becomes thirteen degrees, it becomes invisible, and when it passes thirteen degrees, it appears, and"
+    },
+    {
+      "n": 6,
+      "id": "L-fe45z5r3",
+      "text": "چون از افتاب بیست و هفت درجه بگذرد راجع شود و چون افتاب ببیست و هفت",
+      "en": "when it passes twenty-seven degrees from the Sun, it becomes retrograde, and when the Sun reaches twenty-seven"
+    },
+    {
+      "n": 7,
+      "id": "L-8xkpsssp",
+      "text": "درجه او رسد مستقیم شود و این که گفتیم بمخفف است و در زیج بتحقیق توان دانست",
+      "en": "degrees from it, it becomes direct. And what we have said is in summary, and in the astronomical tables it can be known with exactness."
+    },
+    {
+      "n": 8,
+      "id": "L-tvpmnbyc",
+      "text": "باب بیست و یکم در بیان خسوف قمر و کسوف شمس بدان که خسوف قمر وقت استقبال بود و کسوف",
+      "en": "Chapter twenty-one: On the explanation of the lunar eclipse and the solar eclipse. Know that the lunar eclipse is at the time of opposition, and the solar eclipse"
+    },
+    {
+      "n": 9,
+      "id": "L-x56s5m4g",
+      "text": "شمس وقت اجتماع و سبب خسوف قمر آن باشد که ماه مقابل افتاب بود و نزدیک باشد بعقده",
+      "en": "is at the time of conjunction. And the cause of the lunar eclipse is that the Moon is opposite the Sun and is close to the node"
+    },
+    {
+      "n": 10,
+      "id": "L-4tdysv2u",
+      "text": "راس یا ذنب و ماه را عرض اندک بود پس عقده و میانه زمین که شب از اوست نور افتاب",
+      "en": "of the Head or Tail, and the Moon has a small latitude. Then the node and the middle of the Earth, from which is the night, cut off the light of the Sun"
+    },
+    {
+      "n": 11,
+      "id": "L-t53wq8k3",
+      "text": "از قمر قطع کند پس بحسب عرض جرم ماه سیاه باشد و خسوف بعد از استقبال بهیچ وقت",
+      "en": "from the Moon. Then, according to the latitude, the body of the Moon is black. And the eclipse after opposition at no time"
+    },
+    {
+      "n": 12,
+      "id": "L-3dj559ve",
+      "text": "دیگر نباشد اما کسوف وقت اجتماع باشد نزدیک بود بعقده و قمر را عرض نبود یا اندک",
+      "en": "else occurs. But the solar eclipse is at the time of conjunction, close to the node, and the Moon has no latitude or a small one."
+    },
+    {
+      "n": 13,
+      "id": "L-f8g4fp3f",
+      "text": "بود پس چون بافتاب پیوندد و جرم ماه حجاب افتاب شود گرفته نماید و در هر شهری تفاوتی",
+      "en": "Then when it joins the Sun and the body of the Moon becomes a veil for the Sun, it appears eclipsed, and in every city there is a difference."
+    }
+  ],
+  "sections": [
+    {
+      "role": "catchword",
+      "text": "باشد",
+      "en": "it is"
+    }
+  ],
+  "summary": {
+    "headline": "Planetary Stations and Eclipses",
+    "text": "Rules for the invisibility, visibility, retrogradation, and direct motion of Mars, Venus, and Mercury by angular distance from the Sun, followed by Chapter Twenty-One’s explanation of lunar and solar eclipses at opposition and conjunction near the lunar nodes."
+  }
+}

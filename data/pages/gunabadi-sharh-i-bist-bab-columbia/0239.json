@@ -1,0 +1,137 @@
+{
+  "sheet": "0239",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-gm8rz7u5",
+      "text": "باب پنجم در شرح احوال کواکب از سعادت و نحوست و تذکیر و تانیث و غیر آن",
+      "en": "Chapter Five: On explaining the conditions of the planets regarding beneficence and maleficence, masculinity and femininity, and other than that."
+    },
+    {
+      "n": 2,
+      "id": "L-39nkthvt",
+      "text": "بیان کنیم در این باب سعادت و نحوست مذکر و مؤنث و افلاک و روز و شب",
+      "en": "We will explain in this chapter beneficence and maleficence, masculine and feminine, and the spheres, and day and night,"
+    },
+    {
+      "n": 3,
+      "id": "L-a3e6ssuj",
+      "text": "و رنگ و طعم و روزگار و خانه شان و وبالشان و هبوطشان و اوجشان و حضیض",
+      "en": "and color and taste and time and their domicile and their detriment and their fall and their apogee and perigee"
+    },
+    {
+      "n": 4,
+      "id": "L-f7r46ax4",
+      "text": "شان و هر چه تعلق بدو دارد",
+      "en": "and whatever relates to it."
+    },
+    {
+      "n": 5,
+      "id": "L-5dsr6hx3",
+      "text": "الکواکب | زحل | مشتری | مریخ | آفتاب | زهره | عطارد | قمر",
+      "en": "The Planets | Saturn | Jupiter | Mars | Sun | Venus | Mercury | Moon"
+    },
+    {
+      "n": 6,
+      "id": "L-23n6nnng",
+      "text": "سعادت و نحوست | نحس بزرگ | سعد بزرگ | نحس کوچک | سعد نظر | سعد کوچک | ممتزج | سعد مایل",
+      "en": "Beneficence and Maleficence | Greater Malefic | Greater Benefic | Lesser Malefic | Benefic by aspect | Lesser Benefic | Mixed | Inclined to Benefic"
+    },
+    {
+      "n": 7,
+      "id": "L-z8gddcyz",
+      "text": "نری و مادگی | نر | نر | خنثی | ماده | ممتزج | ماده",
+      "en": "Masculinity and Femininity | Male | Male | Hermaphrodite | Female | Mixed | Female"
+    },
+    {
+      "n": 8,
+      "id": "L-eut6tg6u",
+      "text": "روزی و شبی | روزی | روزی | شبی | روزی | شبی | ممتزج | شبی",
+      "en": "Diurnal and Nocturnal | Diurnal | Diurnal | Nocturnal | Diurnal | Nocturnal | Mixed | Nocturnal"
+    },
+    {
+      "n": 9,
+      "id": "L-7r2e49gc",
+      "text": "افلاکشان | هفتم | ششم | پنجم | چهارم | سیم | دویم | اوّل",
+      "en": "Their Spheres | Seventh | Sixth | Fifth | Fourth | Third | Second | First"
+    },
+    {
+      "n": 10,
+      "id": "L-u4snspr5",
+      "text": "روزهاشان | شنبه | پنجشنبه | سه شنبه | یکشنبه | آدینه | چهارشنبه | دوشنبه",
+      "en": "Their Days | Saturday | Thursday | Tuesday | Sunday | Friday | Wednesday | Monday"
+    },
+    {
+      "n": 11,
+      "id": "L-pptuydeh",
+      "text": "شبهاشان | چهارشنبه | دوشنبه | شنبه | پنجشنبه | سه شنبه | یکشنبه | آدینه",
+      "en": "Their Nights | Wednesday | Monday | Saturday | Thursday | Tuesday | Sunday | Friday"
+    },
+    {
+      "n": 12,
+      "id": "L-a3tjc469",
+      "text": "رنگهاشان | سیاه | زردگونه | سرخ | زرد میانجی | سفید | بنفش | سبز",
+      "en": "Their Colors | Black | Yellowish | Red | Intermediate Yellow | White | Violet | Green"
+    },
+    {
+      "n": 13,
+      "id": "L-ymhd6zbr",
+      "text": "خانهاشان | جدی دلو | قوس حوت | حمل عقرب | اسد | ثور میزان | جوزا سنبله | سرطان",
+      "en": "Their Domiciles | Capricorn Aquarius | Sagittarius Pisces | Aries Scorpio | Leo | Taurus Libra | Gemini Virgo | Cancer"
+    },
+    {
+      "n": 14,
+      "id": "L-u97avge3",
+      "text": "وبالشان | سرطان اسد | جوزا سنبله | میزان ثور | دلو | حمل عقرب | قوس حوت | جدی",
+      "en": "Their Detriments | Cancer Leo | Gemini Virgo | Libra Taurus | Aquarius | Aries Scorpio | Sagittarius Pisces | Capricorn"
+    },
+    {
+      "n": 15,
+      "id": "L-yqxt69gk",
+      "text": "شرفشان | میزان | سرطان | جدی | حمل | حوت | سنبله | ثور",
+      "en": "Their Exaltations | Libra | Cancer | Capricorn | Aries | Pisces | Virgo | Taurus"
+    },
+    {
+      "n": 16,
+      "id": "L-c3ysbrjq",
+      "text": "هبوطشان | حمل | جدی | سرطان | میزان | سنبله | حوت | عقرب",
+      "en": "Their Falls | Aries | Capricorn | Cancer | Libra | Virgo | Pisces | Scorpio"
+    },
+    {
+      "n": 17,
+      "id": "L-zput9nx3",
+      "text": "اوجشان | قوس | سنبله | اسد | سرطان | جوزا | حوت | لا اوج له",
+      "en": "Their Apogees | Sagittarius | Virgo | Leo | Cancer | Gemini | Pisces | It has no apogee"
+    },
+    {
+      "n": 18,
+      "id": "L-hnys948g",
+      "text": "حضیضشان | جوزا | حوت | دلو | قوس جدی | قوس | حمل | لا حضیض له",
+      "en": "Their Perigees | Gemini | Pisces | Aquarius | Sagittarius Capricorn | Sagittarius | Aries | It has no perigee"
+    },
+    {
+      "n": 19,
+      "id": "L-r2grrp6u",
+      "text": "طعمشان | ترش | شیرین | تلخ | شیرین | چرب | کلوکیر | شوری",
+      "en": "Their Tastes | Sour | Sweet | Bitter | Sweet | Greasy | Astringent | Salty"
+    },
+    {
+      "n": 20,
+      "id": "L-5u7mff5k",
+      "text": "روزگارشان | پیری و خرفی | کهولت | جوانی | اول برآمدن | ابتدا جوانی | کودکی | شیرخواری",
+      "en": "Their Times of Life | Old age and senility | Mature age | Youth | Beginning of rising | Beginning of youth | Childhood | Infancy"
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "117",
+      "en": "117"
+    }
+  ],
+  "summary": {
+    "headline": "Planetary Conditions Table",
+    "text": "Chapter Five explains planetary beneficence and maleficence, masculinity and femininity, diurnal and nocturnal nature, spheres, days, nights, colors, domiciles, detriments, exaltations, falls, apogees, perigees, tastes, and stages of life. A comparative table covers Saturn, Jupiter, Mars, the Sun, Venus, Mercury, and the Moon."
+  }
+}

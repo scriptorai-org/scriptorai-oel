@@ -1,0 +1,100 @@
+{
+  "sheet": "0005",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-b8y4afk7",
+      "text": "ALBOHALI",
+      "en": null
+    },
+    {
+      "n": 2,
+      "id": "L-837zxbd4",
+      "text": "ARABIS ASTRO=",
+      "en": "the Arab, the most ancient"
+    },
+    {
+      "n": 3,
+      "id": "L-ggsm8g2f",
+      "text": "LOGI ANTIQVISSIMI, AC",
+      "en": "and most famous astrologer,"
+    },
+    {
+      "n": 4,
+      "id": "L-6mrvm6f5",
+      "text": "CLARISSIMI DE IVDICIIS",
+      "en": "one book on the judgments"
+    },
+    {
+      "n": 5,
+      "id": "L-cw8u6q9z",
+      "text": "Natiuitatū liber unus, an-",
+      "en": "of nativities, never"
+    },
+    {
+      "n": 6,
+      "id": "L-55d7fvns",
+      "text": "tehac non editus.",
+      "en": "before published."
+    },
+    {
+      "n": 7,
+      "id": "L-t3te5avj",
+      "text": "Epistola nuncupatoria Ioachimi Helleri",
+      "en": "Dedicatory epistle of Joachim Heller"
+    },
+    {
+      "n": 8,
+      "id": "L-acbe984v",
+      "text": "Leucopetræi, ad clarissimum ui-",
+      "en": "of Weißenfels, to the most famous"
+    },
+    {
+      "n": 9,
+      "id": "L-a69sfzfv",
+      "text": "rum D. Philippum Me-",
+      "en": "man, D. Philipp Me-"
+    },
+    {
+      "n": 10,
+      "id": "L-cpwyw87k",
+      "text": "lanthonem.",
+      "en": "lanchthon."
+    },
+    {
+      "n": 11,
+      "id": "L-adak4ssg",
+      "text": "Impressus Noribergæ, in officina Ioannis",
+      "en": "Printed in Nuremberg, in the workshop of Johann"
+    },
+    {
+      "n": 12,
+      "id": "L-pqgf5fz8",
+      "text": "Montani, & Vlrici Neuber, Anno",
+      "en": "Montanus, & Ulrich Neuber, in the year"
+    },
+    {
+      "n": 13,
+      "id": "L-wuhdzds5",
+      "text": "Domini M. D. XLIX.",
+      "en": "of the Lord 1549."
+    }
+  ],
+  "sections": [
+    {
+      "role": "other",
+      "text": "21.",
+      "en": "21."
+    },
+    {
+      "role": "other",
+      "text": "Ambrosius",
+      "en": "Ambrosius"
+    }
+  ],
+  "summary": {
+    "headline": "Albohali on Nativities",
+    "text": "Title page for Albohali’s book on the judgments of nativities, with Joachim Heller’s dedicatory epistle to Philipp Melanchthon and publication details for Nuremberg, 1549."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "sheet": "0251",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-uaffnnny",
+      "text": "باشد بسبب اختلاف منظر الابصار و خسوف قمر را مکث باشد یعنی درنگ و افتابرا مکث نباشد",
+      "en": "It is due to the parallax of vision. And the lunar eclipse has a duration, meaning a delay, and the solar eclipse does not have a duration."
+    },
+    {
+      "n": 2,
+      "id": "L-4qzcusvd",
+      "text": "و از جانب مغرب بگیرد و هم از جانب مغرب کشادن گیرد زیرا که جرم ماه از افتاب کوچکتر است",
+      "en": "And it begins from the west and also clears from the west, because the body of the moon is smaller than the sun."
+    },
+    {
+      "n": 3,
+      "id": "L-qm6zem4c",
+      "text": "و سبک روتر و از افتاب زود بگذرد و منجمان طالع وسط خسوف بیرون ارند و از وی",
+      "en": "And it is faster and passes the sun quickly. And astrologers extract the ascendant of the middle of the eclipse, and from it"
+    },
+    {
+      "n": 4,
+      "id": "L-gyeeraep",
+      "text": "احکام سازند و هر ساعت خسوف را ماهی تاثیر نویسند و هر ساعت کسوف را سالی تاثیر",
+      "en": "they make judgments. And for every hour of the lunar eclipse they write a month of influence, and for every hour of the solar eclipse a year of influence."
+    },
+    {
+      "n": 5,
+      "id": "L-amdtsqgm",
+      "text": "گویند بشرط انکه شهری بود که منسوب بود ببرج کسوف",
+      "en": "They say, provided that it is a city that is attributed to the sign of the eclipse."
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "123",
+      "en": "123"
+    },
+    {
+      "role": "margin",
+      "text": "مگر انکه در راس و ذنب باشد",
+      "en": "Unless it is at the head or tail (nodes)."
+    },
+    {
+      "role": "other",
+      "text": "اجتماع | القمر | ذنب | الارض | فلک مائل | فلک ممثل | فلک الشمس | فلک حامل | فلک تدویر | راس | فلک قمر | فلک حامل | ذنب | الارض | راس | فلک ممثل | فلک تدویر",
+      "en": "Conjunction | The Moon | Tail (Node) | The Earth | Inclined Sphere | Equated Sphere | Sphere of the Sun | Deferent Sphere | Epicycle Sphere | Head (Node) | Sphere of the Moon | Deferent Sphere | Tail (Node) | The Earth | Head (Node) | Equated Sphere | Epicycle Sphere"
+    }
+  ],
+  "summary": {
+    "headline": "Eclipse Duration and Influence",
+    "text": "Astrological rules for lunar and solar eclipses: their apparent motion, duration, westward beginning and clearing, the use of the eclipse midpoint ascendant for judgment, and the lunar-month versus solar-year durations of influence for cities associated with the eclipse sign."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "sheet": "0086",
+  "page": 82,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-aegcv2y4",
+      "text": "Ἥλιος· Τίταν, Φαέθων, Ὑπερίων, χρυσαυγής, † λαμπής.",
+      "en": "Sun: Titan, Phaethon, Hyperion, golden-gleaming, † shining."
+    },
+    {
+      "n": 2,
+      "id": "L-xbr7c3z5",
+      "text": "Ἀφροδίτη· Φωσφόρος, Ἕσπερος, χρυσῆ, λαμπάκτις, ἀφρογένεια,",
+      "en": "Aphrodite: Phosphorus, Hesperus, golden, bright-rayed, foam-born,"
+    },
+    {
+      "n": 3,
+      "id": "L-k8t8sd3p",
+      "text": "διπρόσωπος, εὔστεφανος, Παφίη, Κυθερία.",
+      "en": "two-faced, well-crowned, Paphian, Cytherean."
+    },
+    {
+      "n": 4,
+      "id": "L-kjc7ydaq",
+      "text": "Ἑρμῆς· Στίλβων, Ἀργειφόντης, διάκτωρ, Κυλλήνιος, ὀξύς, πινυτός,",
+      "en": "Hermes: Stilbon, Argeiphontes, messenger, Cyllenian, swift, wise,"
+    },
+    {
+      "n": 5,
+      "id": "L-324nyu39",
+      "text": "ὠκύς, φαιδρός.",
+      "en": "swift, bright."
+    },
+    {
+      "n": 6,
+      "id": "L-x5jebzqe",
+      "text": "Σελήνη· σελασφόρος, μήνη, διχόζωνος, Τιτανίς, πλησιφαής,",
+      "en": "Moon: light-bringing, mene, half-girdled, Titanis, near-shining,"
+    },
+    {
+      "n": 7,
+      "id": "L-p2pd2a7v",
+      "text": "διχόμηνος, Ἑκάτη, κερόεσσα, χρυσάμπυξ, Θειαντίς, Ἄρτεμις, τριο-",
+      "en": "half-month, Hecate, horned, golden-snooded, Theiantis, Artemis, tri-"
+    },
+    {
+      "n": 8,
+      "id": "L-knjbxf3v",
+      "text": "δῖτις.",
+      "en": "vial."
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "82",
+      "en": "82"
+    },
+    {
+      "role": "header",
+      "text": "CODICES VENETI",
+      "en": "VENETIAN CODICES"
+    },
+    {
+      "role": "margin",
+      "text": "5",
+      "en": "5"
+    },
+    {
+      "role": "other",
+      "text": "F. C.",
+      "en": "F. C."
+    },
+    {
+      "role": "footnote",
+      "text": "1 φάων M, ex[L corr.; cf. tamen supra v. 5. ὑπεριονίδης L. λαμπρός coni.\n4 ἀργηφόντης]M. πηνυτός M. 7 θειάνθης M : θειανθεία L.",
+      "en": "1 φάων ('shining') M, corrected from [L; compare however above line 5. ὑπεριονίδης ('son of Hyperion') L. λαμπρός ('bright') conjectured. 4 ἀργηφόντης ('slayer of Argus')] M. πηνυτός ('wise') M. 7 θειάνθης ('divine flower') M : θειανθεία ('divine flower') L."
+    }
+  ],
+  "summary": {
+    "headline": "Planetary Names and Epithets",
+    "text": "Astrological names and epithets for the Sun, Aphrodite, Hermes, and Moon, including Titan, Phaethon, Hyperion, Phosphorus, Hesperus, Stilbon, Argeiphontes, Hecate, and Artemis."
+  }
+}

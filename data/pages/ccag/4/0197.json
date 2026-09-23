@@ -1,0 +1,130 @@
+{
+  "sheet": "0197",
+  "page": 186,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-8b52wzw2",
+      "text": "S(criptores) P(ossessores) codicum.",
+      "en": "Writers (and) Owners of the codices."
+    },
+    {
+      "n": 2,
+      "id": "L-anwnt7y8",
+      "text": "Albertus Pius (Carpensis), codd. 9, 11, 15 (P.).",
+      "en": "Albertus Pius (of Carpi), codd. 9, 11, 15 (P.)."
+    },
+    {
+      "n": 3,
+      "id": "L-wpyk5nnp",
+      "text": "Anthonius (sic) de Placentia (?), cod. 4 (P.).",
+      "en": "Anthonius (sic) of Piacenza (?), cod. 4 (P.)."
+    },
+    {
+      "n": 4,
+      "id": "L-bgs7gjer",
+      "text": "Eleutherius astrologus Mytilenis, cod. 4 [et cod. 7?] (S.)",
+      "en": "Eleutherius the astrologer at Mytilene, cod. 4 [and cod. 7?] (S.)"
+    },
+    {
+      "n": 5,
+      "id": "L-c3xehq4q",
+      "text": "Georgius Valla, codd. 9 et 11 (P.) ; 13 et partim 15 (S.).",
+      "en": "Georgius Valla, codd. 9 and 11 (P.); 13 and partly 15 (S.)."
+    },
+    {
+      "n": 6,
+      "id": "L-a2y2ce9n",
+      "text": "Gregorius monachus, cod. 10 (S.).",
+      "en": "Gregorius the monk, cod. 10 (S.)."
+    },
+    {
+      "n": 7,
+      "id": "L-9z5zw64e",
+      "text": "Iohannes Rhosus, cod. 31 (S.).",
+      "en": "Iohannes Rhosus, cod. 31 (S.)."
+    },
+    {
+      "n": 8,
+      "id": "L-m4dzmn46",
+      "text": "Iohannes sacerdos Symeonacius (?) et protopapa Χανδᾶ (?), cod. 3 (S.).",
+      "en": "Iohannes the priest Symeonacius (?) and protopapas of Chandax (?), cod. 3 (S.)."
+    },
+    {
+      "n": 9,
+      "id": "L-nk4av6x9",
+      "text": "Iohannes (Xerocaltus) sacerdos et tabularius, cod. 19 (S.).",
+      "en": "Iohannes (Xerocaltus) the priest and tabularius, cod. 19 (S.)."
+    },
+    {
+      "n": 10,
+      "id": "L-2vecuqb9",
+      "text": "Michael Apostolius, cod. 30 (S.).",
+      "en": "Michael Apostolius, cod. 30 (S.)."
+    },
+    {
+      "n": 11,
+      "id": "L-a9b4nkxx",
+      "text": "Michael Suliardus, codd. 9 et 11 (S.).",
+      "en": "Michael Suliardus, codd. 9 and 11 (S.)."
+    },
+    {
+      "n": 12,
+      "id": "L-ukudxcdn",
+      "text": "Annorum notae in codd. obviae.",
+      "en": "Notes of years found in the codices."
+    },
+    {
+      "n": 13,
+      "id": "L-7m3gwea8",
+      "text": "Mensis martius a. 1389 == cod. 4.",
+      "en": "Month of March | a. 1389 | == | cod. 4."
+    },
+    {
+      "n": 14,
+      "id": "L-sjsc9kzk",
+      "text": "„ ποιανεψιών a. 1488 == „ 13.",
+      "en": "\" Pyanepsion | a. 1488 | == | \" 13."
+    },
+    {
+      "n": 15,
+      "id": "L-5s92w3n7",
+      "text": "„ october a. 1490 == „ 9.",
+      "en": "„ October | year 1490 | == | „ 9."
+    },
+    {
+      "n": 16,
+      "id": "L-5ykk4wc3",
+      "text": "„ maius a. 1491 == „ 31.",
+      "en": "\" May | a. 1491 | == | \" 31."
+    },
+    {
+      "n": 17,
+      "id": "L-vk9s6jft",
+      "text": "„ iunius a. 1495 == „ 19.",
+      "en": "\" June | a. 1495 | == | \" 19."
+    },
+    {
+      "n": 18,
+      "id": "L-7a37vtjr",
+      "text": "Annus 1565 == „ 1.",
+      "en": "Year 1565 | == | \" 1."
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "186",
+      "en": "186"
+    },
+    {
+      "role": "header",
+      "text": "CODICES ITALICI",
+      "en": "ITALIAN CODICES"
+    }
+  ],
+  "summary": {
+    "headline": "Codex Owners and Dated Notes",
+    "text": "List of writers and owners associated with Italian astrological codices, including Albertus Pius, Georgius Valla, Michael Apostolius, and others, followed by a table of dated notes from 1389 to 1565 linked to codices 1, 4, 9, 13, 19, and 31."
+  }
+}

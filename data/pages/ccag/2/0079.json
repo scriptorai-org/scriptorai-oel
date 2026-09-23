@@ -1,0 +1,149 @@
+{
+  "sheet": "0079",
+  "page": 75,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-3qrtsmf2",
+      "text": "INDEX CODICUM",
+      "en": "INDEX OF MANUSCRIPTS"
+    },
+    {
+      "n": 2,
+      "id": "L-747cwgqr",
+      "text": "Consensus Numerorum.",
+      "en": "Consensus Numerorum."
+    },
+    {
+      "n": 3,
+      "id": "L-bzf7ad38",
+      "text": "Marcianus 303 = cod. 1",
+      "en": "Marcianus 303 = cod. 1"
+    },
+    {
+      "n": 4,
+      "id": "L-umc6y7k2",
+      "text": "Marcianus 335 = cod. 7",
+      "en": "Marcianus 335 = cod. 7"
+    },
+    {
+      "n": 5,
+      "id": "L-8xgnufez",
+      "text": "„ 313 = „ 2",
+      "en": "„ 313 = „ 2"
+    },
+    {
+      "n": 6,
+      "id": "L-7w98nzsr",
+      "text": "„ 336 = „ 8",
+      "en": "„ 336 = „ 8"
+    },
+    {
+      "n": 7,
+      "id": "L-59uvgec2",
+      "text": "„ 314 = „ 3",
+      "en": "„ 314 = „ 3"
+    },
+    {
+      "n": 8,
+      "id": "L-4nfxggba",
+      "text": "„ 366 = „ 9",
+      "en": "„ 366 = „ 9"
+    },
+    {
+      "n": 9,
+      "id": "L-xuyquujn",
+      "text": "„ 323 = „ 4",
+      "en": "„ 323 = „ 4"
+    },
+    {
+      "n": 10,
+      "id": "L-um39br95",
+      "text": "„ 594 = „ 10",
+      "en": "„ 594 = „ 10"
+    },
+    {
+      "n": 11,
+      "id": "L-vkx63emy",
+      "text": "„ 324 = „ 5",
+      "en": "„ 324 = „ 5"
+    },
+    {
+      "n": 12,
+      "id": "L-ht5799jr",
+      "text": "„ Cl. VI, 4 = „ 11",
+      "en": "„ Cl. VI, 4 = „ 11"
+    },
+    {
+      "n": 13,
+      "id": "L-snxzhuhb",
+      "text": "„ 334 = „ 6",
+      "en": "„ 334 = „ 6"
+    },
+    {
+      "n": 14,
+      "id": "L-ncf868vm",
+      "text": "S(criptores) P(ossessores) codicum.",
+      "en": "S(cribes) P(ossessors) of the codices."
+    },
+    {
+      "n": 15,
+      "id": "L-p8mpwdv3",
+      "text": "Bessario cod. 3, cod. 8.",
+      "en": "Bessario cod. 3, cod. 8."
+    },
+    {
+      "n": 16,
+      "id": "L-8gjcbfsk",
+      "text": "Annorum notae in codd. obviae.",
+      "en": "Notes of years found in the manuscripts."
+    },
+    {
+      "n": 17,
+      "id": "L-8qqrh5sy",
+      "text": "Mensis aprilis a. 1416 = cod. 5.",
+      "en": "Month of April, year 1416 = cod. 5."
+    },
+    {
+      "n": 18,
+      "id": "L-nb56vy32",
+      "text": "Annus 1436 = cod. 8.",
+      "en": "Annus 1436 = cod. 8."
+    },
+    {
+      "n": 19,
+      "id": "L-tsdgbx79",
+      "text": "A. 1585 = cod. 11.",
+      "en": "A. 1585 = cod. 11."
+    },
+    {
+      "n": 20,
+      "id": "L-84ye8nzq",
+      "text": "Affinitates codicum potiores.",
+      "en": "More important affinities of the manuscripts."
+    },
+    {
+      "n": 21,
+      "id": "L-mvfgxet3",
+      "text": "Cod. 5, f. 1-148 et cod. Flor. 7, f. 99-219v (p. 4, n. 1).",
+      "en": "Cod. 5, f. 1-148 et cod. Flor. 7, f. 99-219v (p. 4, n. 1)."
+    },
+    {
+      "n": 22,
+      "id": "L-ay2mtckm",
+      "text": "Cod. 6 cum codice 7 et Parisino 2506 partim conspirat (p. 37, n. 1).",
+      "en": "Cod. 6 partly agrees with codex 7 and Parisinus 2506 (p. 37, n. 1)."
+    },
+    {
+      "n": 23,
+      "id": "L-dpakuybz",
+      "text": "Cod. 8, folia 8-320v ex cod. Flor. 10 descripta esse videntur.",
+      "en": "Cod. 8, folios 8-320v seem to have been copied from cod. Flor. 10."
+    }
+  ],
+  "sections": [],
+  "summary": {
+    "headline": "Manuscript Index and Affiliations",
+    "text": "Index of manuscripts for the Consensus Numerorum, mapping Marcianus manuscripts 303, 335, 313, 336, 314, 366, 323, 594, 324, Cl. VI, 4, and 334 to catalog codes 1–11. Notes identify Bessarion as a codex owner, manuscript dates from 1416 to 1585, and textual affinities among Venetian, Florentine, and Parisian codices."
+  }
+}

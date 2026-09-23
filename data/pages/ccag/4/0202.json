@@ -1,0 +1,233 @@
+{
+  "sheet": "0202",
+  "page": 191,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-ery9pxsz",
+      "text": "TABULA ARGUMENTI",
+      "en": "TABLE OF CONTENTS"
+    },
+    {
+      "n": 2,
+      "id": "L-8eta9jp5",
+      "text": "CATALOGUS CODICUM",
+      "en": "CATALOGUE OF CODICES"
+    },
+    {
+      "n": 3,
+      "id": "L-mwkgha4u",
+      "text": "Codices Taurinenses | 3",
+      "en": "Codices Taurinenses | 3"
+    },
+    {
+      "n": 4,
+      "id": "L-39ezj9xv",
+      "text": "Codex Bergomas | 19",
+      "en": "Codex Bergomas | 19"
+    },
+    {
+      "n": 5,
+      "id": "L-h54f42ne",
+      "text": "Codex Parmensis | 23",
+      "en": "Codex Parmensis | 23"
+    },
+    {
+      "n": 6,
+      "id": "L-g99cf24u",
+      "text": "Codices Mutinenses | 27",
+      "en": "Codices Mutinenses | 27"
+    },
+    {
+      "n": 7,
+      "id": "L-xgk2wz6m",
+      "text": "Codices Bononienses | 39",
+      "en": "Codices Bononienses | 39"
+    },
+    {
+      "n": 8,
+      "id": "L-wuqq3n8g",
+      "text": "Codices Neapolitani | 49",
+      "en": "Codices Neapolitani | 49"
+    },
+    {
+      "n": 9,
+      "id": "L-wyyb39hp",
+      "text": "Codex Messanensis | 69",
+      "en": "Codex Messanensis | 69"
+    },
+    {
+      "n": 10,
+      "id": "L-fxvw4zuq",
+      "text": "Supplementum codicum Florentinorum | 73",
+      "en": "Supplement of Florentine codices | 73"
+    },
+    {
+      "n": 11,
+      "id": "L-kutn37c8",
+      "text": "APPENDIX",
+      "en": null
+    },
+    {
+      "n": 12,
+      "id": "L-jjpkq7kk",
+      "text": "EXCERPTA EX CODICE 4 (TAURIN. C. VII, 10)",
+      "en": "EXCERPTS FROM CODEX 4 (TAURIN. C. VII, 10)"
+    },
+    {
+      "n": 13,
+      "id": "L-exxfr3cj",
+      "text": "Ex Heliodori commentario in Paulum Alexandrinum | 81",
+      "en": "From Heliodorus' commentary on Paulus Alexandrinus | 81"
+    },
+    {
+      "n": 14,
+      "id": "L-b6acdwwd",
+      "text": "Περὶ τῶν ἐν ταῖς καταστάσεσι τῶν ἀέρων συμβαινόντων ἀνέμων κ. τ. λ. | 83",
+      "en": "On the winds occurring in the conditions of the air, etc. | 83"
+    },
+    {
+      "n": 15,
+      "id": "L-295r2c6d",
+      "text": "Capitula de furtis et furibus | 88",
+      "en": "Chapters on thefts and thieves | 88"
+    },
+    {
+      "n": 16,
+      "id": "L-hbbespky",
+      "text": "Περὶ τοῦ ποῦ ἐστι τὸ κλαπέν. — Εἰ νέος ὁ κλέπτης ἢ μέσος ἢ γέρων. —",
+      "en": "On where the stolen thing is. — Whether the thief is young, middle-aged, or old. —"
+    },
+    {
+      "n": 17,
+      "id": "L-pxzhu3y4",
+      "text": "Περὶ τοῦ εἴδους τοῦ κλέπτου. — Περὶ τοῦ εἰ πλησίον ἐστὶν ἢ πόρρω",
+      "en": "On the appearance of the thief. — On whether he is near or far"
+    },
+    {
+      "n": 18,
+      "id": "L-cxftty7u",
+      "text": "τῆς συγγενείας. — Τίνι ἐδόθη τὸ κλαπέν. — Εἰ ἄρρην ὁ κλέπτης ἢ",
+      "en": "in kinship. — To whom the stolen thing was given. — Whether the thief is male or"
+    },
+    {
+      "n": 19,
+      "id": "L-h6sxesqc",
+      "text": "γυνή. — Περὶ τοῦ ποίῳ τρόπῳ ὁ κλέπτης εἰσῆλθεν.",
+      "en": "female. — On in what manner the thief entered."
+    },
+    {
+      "n": 20,
+      "id": "L-h35v6v7j",
+      "text": "Περὶ καιρῶν ταραχῆς, ἐμπρησμοῦ, σεισμοῦ καὶ καταποντισμοῦ | 91",
+      "en": "On times of disturbance, conflagration, earthquake, and inundation | 91"
+    },
+    {
+      "n": 21,
+      "id": "L-2ykdqrjz",
+      "text": "Λέοντος φιλοσόφου περὶ βασιλέων καὶ ἀρχόντων κ. τ. λ. | 92",
+      "en": "Of Leo the philosopher on kings and rulers, etc. | 92"
+    },
+    {
+      "n": 22,
+      "id": "L-c7ka4wc5",
+      "text": "Περὶ τῆς αὐτῆς τοῦ ἄρχοντος ἰδέας | 93",
+      "en": "On the same form of the ruler | 93"
+    },
+    {
+      "n": 23,
+      "id": "L-zqfa925r",
+      "text": "<Theophili>. Περὶ προβολῆς ἄρχοντος | 93",
+      "en": "<Of Theophilus>. On the appointment of a ruler | 93"
+    },
+    {
+      "n": 24,
+      "id": "L-kksmvvgz",
+      "text": "Περὶ τοῦ εἰδέναι τοῦ δείπνου τὴν κατασκευήν | 94",
+      "en": "On knowing the preparation of the dinner | 94"
+    },
+    {
+      "n": 25,
+      "id": "L-75yz4s6j",
+      "text": "EXCERPTUM EX CODICE 10 (MUTIN. 42)",
+      "en": "EXCERPT FROM CODEX 10 (MUTIN. 42)"
+    },
+    {
+      "n": 26,
+      "id": "L-7ccxd74f",
+      "text": "Nicetae Paphlagonii (?) ὅτι πολυάσχολον πρᾶγμα ἡ ἀστρολογία | 96",
+      "en": "Of Nicetas the Paphlagonian (?) that astrology is a busy matter | 96"
+    },
+    {
+      "n": 27,
+      "id": "L-a373ar6d",
+      "text": "EXCERPTA EX CODICE 11 (MUTIN. 85)",
+      "en": "EXCERPTS FROM CODEX 11 (MUTIN. 85)"
+    },
+    {
+      "n": 28,
+      "id": "L-3untxkqe",
+      "text": "De hebdomadis septem diebus | 99",
+      "en": "On the seven days of the week | 99"
+    },
+    {
+      "n": 29,
+      "id": "L-6n2tjmzw",
+      "text": "Iuliani Laodicensis disquisitio astronomica (Ἐπίσκεψις ἀστρονο-",
+      "en": "Julian of Laodicea's astronomical disquisition (Astronomical"
+    },
+    {
+      "n": 30,
+      "id": "L-zbybtfsr",
+      "text": "μική). — Praefatio et prima capita tria | 99",
+      "en": "investigation). — Preface and first three chapters | 99"
+    },
+    {
+      "n": 31,
+      "id": "L-skqehff5",
+      "text": "Melampodis μέθοδος περὶ τῶν τῆς Σελήνης προγνώσεων | 110",
+      "en": "Melampus' method on the prognostications of the Moon | 110"
+    },
+    {
+      "n": 32,
+      "id": "L-8ay3pcyn",
+      "text": "De septem mundi aetatibus. — Ἐπίσκεψις τῶν ἑπτὰ πλανητῶν et",
+      "en": "On the seven ages of the world. — Investigation of the seven planets and"
+    },
+    {
+      "n": 33,
+      "id": "L-u5qjp92d",
+      "text": "Ἀκριβὴς φιλοσοφία τῶν Χαλδαίων | 113",
+      "en": "Exact philosophy of the Chaldeans | 113"
+    },
+    {
+      "n": 34,
+      "id": "L-5jg2ndqx",
+      "text": "Πέρσου φιλοσόφου καὶ ἀστρολόγου τοὔνομα Ζανατῆ ἐπίσκεψις ἡ",
+      "en": "The present observable investigation of the Persian philosopher and astrologer"
+    },
+    {
+      "n": 35,
+      "id": "L-cxrrvymd",
+      "text": "παροῦσα παρατηρήσιμος | 118",
+      "en": "named Zanates | 118"
+    },
+    {
+      "n": 36,
+      "id": "L-nhgq6vxz",
+      "text": "EXCERPTUM EX CODICE 13 (MUTIN. 174)",
+      "en": "EXCERPT FROM CODEX 13 (MUTIN. 174)"
+    },
+    {
+      "n": 37,
+      "id": "L-hyqk8k5c",
+      "text": "Ἐπιστολὴ Πετοσίρεως φιλοσόφου πρὸς Νεκεψὼ βασιλέα | 120",
+      "en": "Letter of Petosiris the philosopher to King Nechepso | 120"
+    }
+  ],
+  "sections": [],
+  "summary": {
+    "headline": "Table of Contents",
+    "text": "Table of contents for the catalogue of Greek astrological codices, listing Italian manuscript collections and appendices with excerpts on astrology, weather, theft, rulers, earthquakes, weekdays, planetary ages, Chaldean philosophy, and named astrologers."
+  }
+}

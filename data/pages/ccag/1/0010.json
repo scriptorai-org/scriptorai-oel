@@ -1,0 +1,36 @@
+{
+  "sheet": "0010",
+  "page": 4,
+  "numbering": "roman",
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-ygbpqzdk",
+      "text": "BRUXELLIS",
+      "en": "BRUSSELS"
+    },
+    {
+      "n": 2,
+      "id": "L-gct3w65t",
+      "text": "TYPIS POLLEUNIS ET CEUTERICK",
+      "en": "PRINTED BY POLLEUNIS AND CEUTERICK"
+    },
+    {
+      "n": 3,
+      "id": "L-7chr564e",
+      "text": "37, RUE DES URLULINES, 37",
+      "en": "37, RUE DES URSULINES, 37"
+    }
+  ],
+  "sections": [
+    {
+      "role": "main",
+      "text": "BRUXELLIS\nTYPIS POLLEUNIS ET CEUTERICK\n37, RUE DES URLULINES, 37",
+      "en": "BRUSSELS\nTYPES OF POLLEUNIS AND CEUTERICK\n37, RUE DES URSULINES, 37"
+    }
+  ],
+  "summary": {
+    "headline": "Brussels Printer’s Imprint",
+    "text": "Brussels imprint identifying Polleunis and Ceuterick as printers at 37, Rue des Ursulines."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "sheet": "0258",
+  "page": 246,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-x2erwb9w",
+      "text": "Annorum notae in codicibus obviae.",
+      "en": "Notes of years found in the codices."
+    },
+    {
+      "n": 2,
+      "id": "L-tauckgbx",
+      "text": "A. 1368 = cod. 6.",
+      "en": "Year 1368 = cod. 6."
+    },
+    {
+      "n": 3,
+      "id": "L-2gd9qydk",
+      "text": "Mense iulio a. 1388 Mytilenis = cod. 2.",
+      "en": "In the month of July, year 1388, at Mytilene = cod. 2."
+    },
+    {
+      "n": 4,
+      "id": "L-pxxm9ppf",
+      "text": "A. 1390? (p. 36, n. 1) = cod. 2 pars altera.",
+      "en": "Year 1390? (p. 36, n. 1) = cod. 2, second part."
+    },
+    {
+      "n": 5,
+      "id": "L-yxw4k4ng",
+      "text": "A. 1542 = cod. 10.",
+      "en": "Year 1542 = cod. 10."
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "246",
+      "en": "246"
+    },
+    {
+      "role": "header",
+      "text": "CODICUM ROMANORUM",
+      "en": "OF THE ROMAN CODICES"
+    }
+  ],
+  "summary": {
+    "headline": "Dates of Roman Codices",
+    "text": "Chronological notes associating the years 1368, 1388 at Mytilene, 1390, and 1542 with Roman codices 6, 2, 2 (second part), and 10."
+  }
+}

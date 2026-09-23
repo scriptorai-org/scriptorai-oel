@@ -1,0 +1,24 @@
+{
+  "sheet": "0026",
+  "page": 17,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-mdy78rm3",
+      "text": "CODEX BERGOMAS",
+      "en": "THE BERGAMO CODEX"
+    }
+  ],
+  "sections": [
+    {
+      "role": "footnote",
+      "text": "COD. IV.",
+      "en": "COD. IV."
+    },
+    {
+      "role": "pagenum",
+      "text": "2",
+      "en": "2"
+    }
+  ]
+}

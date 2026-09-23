@@ -1,0 +1,101 @@
+{
+  "sheet": "0262",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-mufssryt",
+      "text": "باب بیست و هفتم در بیان رنگ کواکب به بروج",
+      "en": "Chapter twenty-seven on the explanation of the color of the planets in the signs"
+    },
+    {
+      "n": 2,
+      "id": "L-8chj68ec",
+      "text": "الکواکب | شمس | قمر | زحل | مشتری | مریخ | زهره | عطارد",
+      "en": "The planets | Sun | Moon | Saturn | Jupiter | Mars | Venus | Mercury"
+    },
+    {
+      "n": 3,
+      "id": "L-jfwfdwyw",
+      "text": "الحمل | اشقر | زردگونه | سرخ و سیاه | لعل رنگ | میگون | سرخ فام | اشقر",
+      "en": "Aries | reddish-blonde | yellowish | red and black | ruby-colored | wine-colored | red-hued | reddish-blonde"
+    },
+    {
+      "n": 4,
+      "id": "L-uuhrt6f9",
+      "text": "الثور | خاک رنگ | سفید یکتاد | ازرق | سپید | لعل رنگ | سیاه گونه | فیروزه رنگ",
+      "en": "Taurus | earth-colored | pure white | blue | white | ruby-colored | blackish | turquoise-colored"
+    },
+    {
+      "n": 5,
+      "id": "L-js9e3j9x",
+      "text": "الجوزا | زرد سبز فام | ازرق | سیاه بن | خاک رنگ | گردآلود | سیاه سبز | فستقی",
+      "en": "Gemini | yellow-green-hued | blue | blackish | earth-colored | dusty | black-green | pistachio-colored"
+    },
+    {
+      "n": 6,
+      "id": "L-e75nx4kf",
+      "text": "السرطان | زرد سبز فام | ازرق | سیاه | اشهب | سرخ سیاه | میگون | اسمانگون",
+      "en": "Cancer | yellow-green-hued | blue | black | grey | red-black | wine-colored | sky-colored"
+    },
+    {
+      "n": 7,
+      "id": "L-rh9rmbj5",
+      "text": "الاسد | مورد رنگ | مورد رنگ | سرخ سیاه | لعل رنگ | اشقر | لعل گون | بنفش",
+      "en": "Leo | myrtle-colored | myrtle-colored | red-black | ruby-colored | reddish-blonde | ruby-hued | violet"
+    },
+    {
+      "n": 8,
+      "id": "L-mqr226ga",
+      "text": "السنبله | مورد رنگ | گردآلود | ازرق | گردآلود | میگون | سفید | فیروزه",
+      "en": "Virgo | myrtle-colored | dusty | blue | dusty | wine-colored | white | turquoise"
+    },
+    {
+      "n": 9,
+      "id": "L-wx57wx74",
+      "text": "المیزان | سرخ سیاه | ازرق | سبز سیاه | میگون | لعل فام | سیاه گونه | ازرق",
+      "en": "Libra | red-black | blue | green-black | wine-colored | ruby-hued | blackish | blue"
+    },
+    {
+      "n": 10,
+      "id": "L-q34j28c7",
+      "text": "العقرب | سبز تاریک | میگون | سیاه سرخ | میگون | لعل رنگ | میگون | ازرق",
+      "en": "Scorpio | dark green | wine-colored | black-red | wine-colored | ruby-colored | wine-colored | blue"
+    },
+    {
+      "n": 11,
+      "id": "L-xfz4cagm",
+      "text": "القوس | سرخ | سفید تاریک | مورد رنگ | سفید | لعل رنگ | سفید یکتاد | مورد رنگ",
+      "en": "Sagittarius | red | dark white | myrtle-colored | white | ruby-colored | pure white | myrtle-colored"
+    },
+    {
+      "n": 12,
+      "id": "L-anadw8f7",
+      "text": "الجدی | سبز تاریک | ازرق | سیاه سرخ | سفید | سرخ فام | میگون | ازرق",
+      "en": "Capricorn | dark green | blue | black-red | white | red-hued | wine-colored | blue"
+    },
+    {
+      "n": 13,
+      "id": "L-g3uxtqwj",
+      "text": "الدلو | ملوقی | ازرق | سیاه | ازرق | سبز فام | ازرق | زرد",
+      "en": "Aquarius | malachite-colored | blue | black | blue | green-hued | blue | yellow"
+    },
+    {
+      "n": 14,
+      "id": "L-fj8wx4yv",
+      "text": "الحوت | زرد سفید | سفید | میگون تاریک | سفید | سرخ سبز | سفید | زرد",
+      "en": "Pisces | yellow-white | white | dark wine-colored | white | red-green | white | yellow"
+    }
+  ],
+  "sections": [
+    {
+      "role": "catchword",
+      "text": "باب بیست و هشتم",
+      "en": "Chapter twenty-eight"
+    }
+  ],
+  "summary": {
+    "headline": "Planetary Colors in the Zodiac",
+    "text": "Chapter twenty-seven explains the colors assigned to the Sun, Moon, Saturn, Jupiter, Mars, Venus, and Mercury in each of the twelve zodiac signs, presented in a sign-by-planet table."
+  }
+}

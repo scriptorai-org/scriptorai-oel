@@ -1,0 +1,101 @@
+{
+  "sheet": "0260",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-6sbe3z3s",
+      "text": "باب بیست و پنجم در تذکیر و تانیث کواکب در بروج",
+      "en": "Chapter Twenty-Five: On the Masculinity and Femininity of the Planets in the Signs"
+    },
+    {
+      "n": 2,
+      "id": "L-4gpu3ztw",
+      "text": "الکواکب | شمس | القمر | زحل | المشتري | المریخ | الزهره | العطارد",
+      "en": "The Planets | Sun | Moon | Saturn | Jupiter | Mars | Venus | Mercury"
+    },
+    {
+      "n": 3,
+      "id": "L-4cskz5yb",
+      "text": "الحمل | نو | مب نري | نو | نو | نو | ماده | مب نري",
+      "en": "Aries | no | mb nry | no | no | no | female | mb nry"
+    },
+    {
+      "n": 4,
+      "id": "L-t3pnevbs",
+      "text": "الثور | مخنث | ماده | ماده | مب عادیک | مخنث | ماده | ماده",
+      "en": "Taurus | hermaphrodite | female | female | mb 'adyk | hermaphrodite | female | female"
+    },
+    {
+      "n": 5,
+      "id": "L-hxqbdu7f",
+      "text": "الجوزا | نر | مخنث | نر | نر | نر | مخنث | نر",
+      "en": "Gemini | male | hermaphrodite | male | male | male | hermaphrodite | male"
+    },
+    {
+      "n": 6,
+      "id": "L-2ar2tdzk",
+      "text": "السرطان | مب عادیک | ماده | مب عادیک | ماده | مخنث | ماده | مخنث | ماده",
+      "en": "Cancer | mb 'adyk | female | mb 'adyk | female | hermaphrodite | female | hermaphrodite | female"
+    },
+    {
+      "n": 7,
+      "id": "L-nsndjpkg",
+      "text": "الاسد | نر | نر | نر | نر | نر | مب نري | نر",
+      "en": "Leo | male | male | male | male | male | mb nry | male"
+    },
+    {
+      "n": 8,
+      "id": "L-muyuam99",
+      "text": "السنبله | مخنث | مخنث مب نري | مب عادیک | مخنث | ماده | ماده | ماده",
+      "en": "Virgo | hermaphrodite | hermaphrodite mb nry | mb 'adyk | hermaphrodite | female | female | female"
+    },
+    {
+      "n": 9,
+      "id": "L-49q72n4k",
+      "text": "المیزان | نر | مب عادیک | مب نري | نر | مخنث | مخنث | نر",
+      "en": "Libra | male | mb 'adyk | mb nry | male | hermaphrodite | hermaphrodite | male"
+    },
+    {
+      "n": 10,
+      "id": "L-999zewr4",
+      "text": "العقرب | مب عادیک | ماده | مب عادیک | مب نري | مخنث | ماده | ماده",
+      "en": "Scorpio | mb 'adyk | female | mb 'adyk | mb nry | hermaphrodite | female | female"
+    },
+    {
+      "n": 11,
+      "id": "L-vjd2hxfw",
+      "text": "القوس | نر | مخنث | نر | نر | نر | مب نري | نر",
+      "en": "Sagittarius | male | hermaphrodite | male | male | male | mb nry | male"
+    },
+    {
+      "n": 12,
+      "id": "L-vw9ty52k",
+      "text": "الجدي | مخنث | ماده | مب عادیک | مب نري | مخنث | ماده | مخنث",
+      "en": "Capricorn | hermaphrodite | female | mb 'adyk | mb nry | hermaphrodite | female | hermaphrodite"
+    },
+    {
+      "n": 13,
+      "id": "L-2383s2vk",
+      "text": "الدلو | نر | مخنث | نر | نر | نر | نر | نر",
+      "en": "Aquarius | male | hermaphrodite | male | male | male | male | male"
+    },
+    {
+      "n": 14,
+      "id": "L-tyr5y76v",
+      "text": "الحوت | ماده | ضعیف ماده | مخنث مب نري | مب نري | مب نري | ماده | ماده",
+      "en": "Pisces | female | weak female | hermaphrodite mb nry | mb nry | mb nry | female | female"
+    }
+  ],
+  "sections": [
+    {
+      "role": "catchword",
+      "text": "برابر شمس",
+      "en": "opposite the Sun"
+    }
+  ],
+  "summary": {
+    "headline": "Planetary Gender by Zodiac Sign",
+    "text": "Chapter Twenty-Five presents a table classifying the Sun, Moon, Saturn, Jupiter, Mars, Venus, and Mercury as male, female, hermaphrodite, or related variants in Aries through Pisces."
+  }
+}

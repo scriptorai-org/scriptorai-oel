@@ -1,0 +1,57 @@
+{
+  "sheet": "0063",
+  "page": 60,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-nv73gp4a",
+      "text": "EXCERPTUM EX CODICE 23 (AMBR. H 2 INF.)",
+      "en": "EXCERPT FROM CODEX 23 (AMBR. H 2 INF.)"
+    },
+    {
+      "n": 2,
+      "id": "L-pvd4en5e",
+      "text": "Ποίησις κεφαλῆς ἀποτελέσματος τοῦ Ἡλιοδώρου . . . .",
+      "en": "Construction of the head of the apotelesma of Heliodorus . . . ."
+    },
+    {
+      "n": 3,
+      "id": "L-gjr32j3p",
+      "text": "INDICES",
+      "en": "INDEXES"
+    },
+    {
+      "n": 4,
+      "id": "L-ze7h43xq",
+      "text": "Nomina scriptorum . . . . . . . . .",
+      "en": "Names of authors . . . . . . . . ."
+    },
+    {
+      "n": 5,
+      "id": "L-bc8afbkq",
+      "text": "Nomina cetera . . . . . . . . . .",
+      "en": "Other names . . . . . . . . . ."
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "60",
+      "en": "60"
+    },
+    {
+      "role": "header",
+      "text": "TABULA ARGUMENTI",
+      "en": "TABLE OF CONTENTS"
+    },
+    {
+      "role": "other",
+      "text": "Bruxellis. — Typis POLLEUNIS & CEUTERICK.",
+      "en": "Brussels. — Printed by POLLEUNIS & CEUTERICK."
+    }
+  ],
+  "summary": {
+    "headline": "Heliodorus and Indices",
+    "text": "Table of contents entries for the construction of the head of Heliodorus’s apotelesma, followed by indices of authors’ names and other names."
+  }
+}

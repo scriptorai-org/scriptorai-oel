@@ -1,0 +1,65 @@
+{
+  "sheet": "0002",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-j42wase7",
+      "text": "CODICES",
+      "en": "MANUSCRIPTS"
+    },
+    {
+      "n": 2,
+      "id": "L-zwbjfery",
+      "text": "MEDIOLANENSES",
+      "en": "OF MILAN"
+    },
+    {
+      "n": 3,
+      "id": "L-zt99n6ce",
+      "text": "DESCRIPSERUNT",
+      "en": "DESCRIBED BY"
+    },
+    {
+      "n": 4,
+      "id": "L-vzumhnbt",
+      "text": "AEMYGDIUS MARTINI ET DOMINICUS BASSI",
+      "en": "AEMYGDIUS MARTINI AND DOMINICUS BASSI"
+    },
+    {
+      "n": 5,
+      "id": "L-bjt2b6yv",
+      "text": "III",
+      "en": "III"
+    },
+    {
+      "n": 6,
+      "id": "L-kwua9j2z",
+      "text": "BRUXELLIS",
+      "en": "BRUSSELS"
+    },
+    {
+      "n": 7,
+      "id": "L-ayd86rwd",
+      "text": "IN AEDIBUS HENRICI LAMERTIN",
+      "en": "IN THE PUBLISHING HOUSE OF HENRICUS LAMERTIN"
+    },
+    {
+      "n": 8,
+      "id": "L-esmzpnmj",
+      "text": "20, RUE DU MARCHÉ AU BOIS, 20",
+      "en": "20, WOOD MARKET STREET, 20"
+    },
+    {
+      "n": 9,
+      "id": "L-ef8bxn79",
+      "text": "1901",
+      "en": "1901"
+    }
+  ],
+  "sections": [],
+  "summary": {
+    "headline": "Codices Mediolanenses Title Page",
+    "text": "Title page for volume III, Codices Mediolanenses, catalogued by Aemygdius Martini and Dominicus Bassi and published in Brussels by Henricus Lamertin in 1901."
+  }
+}

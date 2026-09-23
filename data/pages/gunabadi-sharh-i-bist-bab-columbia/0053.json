@@ -1,0 +1,73 @@
+{
+  "sheet": "0053",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-rqkkcqya",
+      "text": "خوانند و حضیض بهمان طریق نیز او را چهار متمم باشد دو از ممثل و دو از مدیر و صورت",
+      "en": "They call it, and the perigee in the same way also has four complements, two from the parecliptic and two from the deferent, and the form"
+    },
+    {
+      "n": 2,
+      "id": "L-pun6gfg9",
+      "text": "ان هر کوکب بحسب تسطیح بدین گونه است تا دانند",
+      "en": "of each planet according to the projection is like this, so that they may know."
+    },
+    {
+      "n": 3,
+      "id": "L-2vzg9fhx",
+      "text": "اما تقویم کواکب عبارت از بعد موضع اوست از راس الحمل یعنی قوسی است از منطقه البروج میان",
+      "en": "As for the true position of the planets, it is the distance of its position from the head of Aries, meaning it is an arc of the zodiac between"
+    },
+    {
+      "n": 4,
+      "id": "L-uz8j5sje",
+      "text": "اول حمل و موضع کوکب بر توالی بروج و انرا طول کوکب نیز گویند و مراد بموضع کوکب در طول طرف",
+      "en": "the beginning of Aries and the position of the planet in the succession of the signs, and they also call it the longitude of the planet, and what is meant by the position of the planet in longitude is the end"
+    },
+    {
+      "n": 5,
+      "id": "L-nw3fduff",
+      "text": "خطی بود که از مرکز عالم بمرکز کوکب گذرد و بفلک اعلی منتهی شود اگر کوکب بر منطقه البروج بود",
+      "en": "of a line that passes from the center of the universe to the center of the planet and ends at the highest sphere, if the planet is on the zodiac."
+    },
+    {
+      "n": 6,
+      "id": "L-quvav67m",
+      "text": "نقطه الا تقاطع دایره عرضی بود که بطرف خط مذکور با منطقه البروج ان تقاطع کند ان تقاطع که",
+      "en": "The point of intersection is of a latitude circle that intersects with the zodiac towards the mentioned line, that intersection which"
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "24",
+      "en": "24"
+    },
+    {
+      "role": "other",
+      "text": "صورت فلک شمس | اوج | شمس | متمم محول | مرکز خارج | مرکز عالم | حضیض | متمم حاوی | فلک ممثل | فلک خارج مرکز | فلک ممثل",
+      "en": "Form of the sphere of the Sun | Apogee | Sun | Complement of the deferent | Center of the eccentric | Center of the universe | Perigee | Complement of the container | Parecliptic sphere | Eccentric sphere | Parecliptic sphere"
+    },
+    {
+      "role": "other",
+      "text": "صورت فلک علویه و زهره | اوج | تدویر | کوکب | فلک حامل | متمم محول | مرکز خارج | مرکز عالم | حضیض | متمم حاوی | فلک ممثل",
+      "en": "Form of the sphere of the superior planets and Venus | Apogee | Epicycle | Planet | Deferent sphere | Complement of the deferent | Center of the eccentric | Center of the universe | Perigee | Complement of the container | Parecliptic sphere"
+    },
+    {
+      "role": "other",
+      "text": "صورت فلک قمر | اوج قمر | تدویر | متمم محول | مرکز خارج | مرکز عالم | متمم حاوی | فلک ممثل | فلک مایل | فلک جوزهر | فلک ممثل",
+      "en": "Form of the sphere of the Moon | Apogee of the Moon | Epicycle | Complement of the deferent | Center of the eccentric | Center of the universe | Complement of the container | Parecliptic sphere | Inclined sphere | Sphere of the nodes | Parecliptic sphere"
+    },
+    {
+      "role": "other",
+      "text": "اوجات | تدویر | عطارد | متمم محول از مدیر | متمم محول از ممثل | مرکز حامل | مرکز مدیر | مرکز عالم | حضیضات | متمم حاوی از مدیر | متمم حاوی از ممثل | فلک مدیر | فلک ممثل | فلک ممثل",
+      "en": "Apogees | Epicycle | Mercury | Complement of the deferent from the deferent | Complement of the deferent from the parecliptic | Center of the deferent | Center of the deferent | Center of the universe | Perigees | Complement of the container from the deferent | Complement of the container from the parecliptic | Deferent sphere | Parecliptic sphere | Parecliptic sphere"
+    }
+  ],
+  "summary": {
+    "headline": "Planetary Longitude and Spheres",
+    "text": "Explanation of planetary true position and longitude as the zodiacal arc from the beginning of Aries, defined by projection from the universe’s center through the planet to the highest sphere. Diagram labels describe the spheres, apogees, perigees, epicycles, deferents, eccentrics, nodes, and planetary configurations of the Sun, superior planets, Venus, Moon, and Mercury."
+  }
+}

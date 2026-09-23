@@ -1,0 +1,268 @@
+{
+  "version": 1,
+  "titles": {
+    "ccag": {
+      "kind": "series",
+      "title": "Catalogus Codicum Astrologorum Graecorum",
+      "volumes": {
+        "1": {
+          "title": "Codices Florentini",
+          "volume_label": "I",
+          "bibliography": {
+            "author": null,
+            "editor": "Descriptions by Alexander Olivieri; selected fragments first edited by Franciscus Boll, Franciscus Cumont, Guilelmus Kroll and Alexander Olivieri",
+            "published": "Brussels: Henri Lamertin, 1898",
+            "date": "1898",
+            "language": "grc",
+            "language_note": "Latin descriptions with Greek texts in the appendix"
+          },
+          "source": {
+            "institution": "Internet Archive",
+            "item": "https://archive.org/details/CatalogusCodicumAstrologorumGraec1",
+            "pages": 204
+          },
+          "rights": {
+            "status": "public-domain",
+            "statement": "The item carries a Creative Commons Public Domain Mark 1.0; its record says Google digitized the book and ARLIMA uploaded it.",
+            "basis": "Published in 1898, and out of copyright in the United States."
+          },
+          "publish": { "state": "public", "renderings": ["source", "en"] },
+          "pagination": [
+            { "sheets": [7, 14], "numbering": "roman", "printed_from": 1 },
+            { "sheets": [15, 199], "numbering": "arabic", "printed_from": 1 }
+          ],
+          "files": { "pages": "data/pages/ccag/1/", "ledger": "data/ledgers/ccag-1.jsonl" }
+        },
+        "2": {
+          "title": "Codices Veneti",
+          "volume_label": "II",
+          "bibliography": {
+            "author": null,
+            "editor": "Descriptions by G. Kroll and A. Olivieri; selected fragments first edited by Franciscus Boll, Franciscus Cumont, Guilelmus Kroll and Alexander Olivieri",
+            "published": "Brussels: Henri Lamertin, 1900",
+            "date": "1900",
+            "language": "grc",
+            "language_note": "Latin descriptions, with the appendix's texts in Greek and one testimony in Syriac"
+          },
+          "source": {
+            "institution": "Internet Archive",
+            "item": "https://archive.org/details/ccag-8.4",
+            "pages": 233
+          },
+          "rights": {
+            "status": "public-domain",
+            "statement": null,
+            "basis": "Published in 1900, and out of copyright in the United States."
+          },
+          "publish": { "state": "public", "renderings": ["source", "en"] },
+          "pagination": [{ "sheets": [6, 227], "numbering": "arabic", "printed_from": 2 }],
+          "leaves": [
+            { "sheet": "0005c", "numbering": "roman", "page": 8 },
+            { "sheet": "0005d", "numbering": "arabic", "page": 1 },
+            { "sheet": "0227a", "numbering": "arabic", "page": 224 }
+          ],
+          "files": { "pages": "data/pages/ccag/2/", "ledger": "data/ledgers/ccag-2.jsonl" }
+        },
+        "3": {
+          "title": "Codices Mediolanenses",
+          "volume_label": "III",
+          "bibliography": {
+            "author": null,
+            "editor": "Aemygdius Martini and Dominicus Bassi",
+            "published": "Brussels: Henri Lamertin, 1901",
+            "date": "1901",
+            "language": "grc",
+            "language_note": "Latin descriptions of the codices, with Greek texts in the appendix"
+          },
+          "source": {
+            "institution": "Internet Archive",
+            "item": "https://archive.org/details/ccag-8.4",
+            "pages": 64
+          },
+          "rights": {
+            "status": "public-domain",
+            "statement": null,
+            "basis": "Published in 1901, and out of copyright in the United States."
+          },
+          "publish": { "state": "public", "renderings": ["source", "en"] },
+          "pagination": [{ "sheets": [7, 63], "numbering": "arabic", "printed_from": 4 }],
+          "files": { "pages": "data/pages/ccag/3/", "ledger": "data/ledgers/ccag-3.jsonl" }
+        },
+        "4": {
+          "title": "Codices Italici",
+          "volume_label": "IV",
+          "bibliography": {
+            "author": null,
+            "editor": "Dominicus Bassi, Franciscus Cumont, Aemygdius Martini and Alexander Olivieri",
+            "published": "Brussels: Henri Lamertin, 1903",
+            "date": "1903",
+            "language": "grc",
+            "language_note": "Latin descriptions with Greek texts in the appendix"
+          },
+          "source": {
+            "institution": "Internet Archive",
+            "item": "https://archive.org/details/ccag-8.4",
+            "pages": 206
+          },
+          "rights": {
+            "status": "public-domain",
+            "statement": null,
+            "basis": "Published in 1903, and out of copyright in the United States."
+          },
+          "publish": { "state": "public", "renderings": ["source", "en"] },
+          "pagination": [
+            { "sheets": [7, 7], "numbering": "roman", "printed_from": 8 },
+            { "sheets": [8, 20], "numbering": "arabic", "printed_from": 1 },
+            { "sheets": [21, 156], "numbering": "arabic", "printed_from": 12 },
+            { "sheets": [157, 203], "numbering": "arabic", "printed_from": 146 }
+          ],
+          "files": { "pages": "data/pages/ccag/4/", "ledger": "data/ledgers/ccag-4.jsonl" }
+        },
+        "5.1": {
+          "title": "Codices Romani, pars prior",
+          "volume_label": "V.1",
+          "bibliography": {
+            "author": null,
+            "editor": "Franciscus Cumont and Franciscus Boll",
+            "published": "Brussels: Henri Lamertin, 1904",
+            "date": "1904",
+            "language": "grc",
+            "language_note": "Latin descriptions, with Greek texts in the appendix and excerpts from Albertus Magnus in Latin"
+          },
+          "source": {
+            "institution": "Internet Archive",
+            "item": "https://archive.org/details/CatalogusCodicumAstrologorumGraec5p1",
+            "pages": 272
+          },
+          "rights": {
+            "status": "public-domain",
+            "statement": "The item carries a Creative Commons Public Domain Mark 1.0; its record says Google digitized the book and ARLIMA uploaded it.",
+            "basis": "Published in 1904, and out of copyright in the United States."
+          },
+          "publish": { "state": "public", "renderings": ["source", "en"] },
+          "pagination": [
+            { "sheets": [12, 12], "numbering": "roman", "printed_from": 8 },
+            { "sheets": [13, 268], "numbering": "arabic", "printed_from": 1 }
+          ],
+          "files": { "pages": "data/pages/ccag/5.1/", "ledger": "data/ledgers/ccag-5.1.jsonl" }
+        }
+      }
+    },
+    "tanbihat-al-munajjimin": {
+      "kind": "work",
+      "title": "Tanbīhāt al-munajjimīn",
+      "edition": {
+        "title": "Tanbīhāt al-munajjimīn",
+        "bibliography": {
+          "author": "Muḥammad Qāsim ibn Muẓaffar Gunābādī, known as Mullā Muẓaffar, who died in 1621 or 1622",
+          "editor": null,
+          "published": "Tehran (conjectured), 1284 AH / 1868; a lithograph",
+          "date": "1284 AH / 1868",
+          "language": "fa",
+          "language_note": "Persian"
+        },
+        "source": {
+          "institution": "HathiTrust, digitized by Google from the Princeton University Library copy",
+          "item": "https://hdl.handle.net/2027/njp.32101076503448",
+          "pages": 308
+        },
+        "rights": {
+          "status": "public-domain",
+          "statement": "HathiTrust records the volume as public domain, in full view.",
+          "basis": "Printed in 1868, and out of copyright in the United States."
+        },
+        "publish": { "state": "public", "renderings": ["source", "en"] },
+        "pagination": [
+          { "sheets": [12, 37], "numbering": "arabic", "printed_from": 8 },
+          { "sheets": [38, 161], "numbering": "arabic", "printed_from": 36 },
+          { "sheets": [162, 301], "numbering": "arabic", "printed_from": 162 }
+        ],
+        "files": { "pages": "data/pages/tanbihat-al-munajjimin/", "ledger": "data/ledgers/tanbihat-al-munajjimin.jsonl" }
+      }
+    },
+    "gunabadi-sharh-i-bist-bab-columbia": {
+      "kind": "work",
+      "title": "Sharḥ-i Bīst bāb dar maʿrifat-i taqvīm, Columbia MS Or 26",
+      "edition": {
+        "title": "Sharḥ-i Bīst bāb dar maʿrifat-i taqvīm, with an anonymous manual of judicial astrology in thirty chapters",
+        "bibliography": {
+          "author": "Muḥammad Qāsim ibn Muẓaffar Gunābādī, known as Mullā Muẓaffar, who died in 1621 or 1622, for the first work; the second names no author",
+          "editor": null,
+          "published": null,
+          "date": "Copied in 1244 AH / 1828",
+          "language": "fa",
+          "language_note": "Persian"
+        },
+        "source": {
+          "institution": "Rare Book and Manuscript Library, Columbia University, MS Or 26; the images served by HathiTrust",
+          "item": "https://hdl.handle.net/2027/nnc2.ark:/13960/t9d639d28",
+          "pages": 272
+        },
+        "rights": {
+          "status": "public-domain",
+          "statement": "Columbia publishes the images under a Creative Commons Public Domain Mark.",
+          "basis": "A copy made in 1244 AH / 1828 of two older works; Columbia states that its content is free of known copyright restrictions and in the public domain."
+        },
+        "publish": { "state": "public", "renderings": ["source", "en"] },
+        "pagination": [],
+        "files": { "pages": "data/pages/gunabadi-sharh-i-bist-bab-columbia/", "ledger": "data/ledgers/gunabadi-sharh-i-bist-bab-columbia.jsonl" }
+      }
+    },
+    "mashaallah-libri-tres": {
+      "kind": "work",
+      "title": "Messahalae libri tres",
+      "edition": {
+        "title": "Messahalae antiquissimi ac laudatissimi inter Arabes astrologi libri tres",
+        "bibliography": {
+          "author": "Māshāʾallāh ibn Atharī, at Baghdad about 762 to 815, whom the title page names Messahala",
+          "editor": "Joachim Heller",
+          "published": "Nuremberg: Johann vom Berg and Ulrich Neuber, 1549",
+          "date": "1549",
+          "language": "la",
+          "language_note": "Latin, translated from the Arabic"
+        },
+        "source": {
+          "institution": "The Warburg Institute, FAH 765",
+          "item": "https://resources.warburg.sas.ac.uk/pdf/fah765mesahw.pdf",
+          "pages": 140
+        },
+        "rights": {
+          "status": "public-domain",
+          "statement": "Every page image carries the institute's seal and the words Free copy for study purposes only.",
+          "basis": "Printed in 1549, and out of copyright in the United States."
+        },
+        "publish": { "state": "public", "renderings": ["source", "en"] },
+        "pagination": [],
+        "files": { "pages": "data/pages/mashaallah-libri-tres/", "ledger": "data/ledgers/mashaallah-libri-tres.jsonl" }
+      }
+    },
+    "albohali-de-iudiciis-nativitatum": {
+      "kind": "work",
+      "title": "Albohali, De iudiciis nativitatum",
+      "edition": {
+        "title": "Albohali Arabis astrologi antiquissimi ac clarissimi de iudiciis nativitatum liber unus",
+        "bibliography": {
+          "author": "Abū ʿAlī Yaḥyā ibn Ghālib al-Khayyāṭ, who died about 835, whom the title page names Albohali",
+          "editor": "Joachim Heller",
+          "published": "Nuremberg: Ioannes Montanus and Ulrich Neuber, 1549",
+          "date": "1549",
+          "language": "la",
+          "language_note": "Latin, translated from the Arabic by John of Seville in 1153"
+        },
+        "source": {
+          "institution": "Library of Congress, World Digital Library collection",
+          "item": "https://www.loc.gov/item/2021666876/",
+          "pages": 136
+        },
+        "rights": {
+          "status": "public-domain",
+          "statement": "The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library collection.",
+          "basis": "Printed in 1549, and out of copyright in the United States."
+        },
+        "publish": { "state": "public", "renderings": ["source", "en"] },
+        "pagination": [{ "sheets": [7, 129], "numbering": "arabic", "printed_from": 1 }],
+        "files": { "pages": "data/pages/albohali-de-iudiciis-nativitatum/", "ledger": "data/ledgers/albohali-de-iudiciis-nativitatum.jsonl" }
+      }
+    }
+  }
+}

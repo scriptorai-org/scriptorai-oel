@@ -1,0 +1,29 @@
+{
+  "sheet": "0004",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-w497b6q6",
+      "text": "CATALOGUS",
+      "en": "CATALOGUE"
+    },
+    {
+      "n": 2,
+      "id": "L-73x9rxc3",
+      "text": "CODICUM",
+      "en": "OF CODICES"
+    },
+    {
+      "n": 3,
+      "id": "L-z25mz9bq",
+      "text": "ASTROLOGORUM GRAECORUM",
+      "en": "OF GREEK ASTROLOGERS"
+    }
+  ],
+  "sections": [],
+  "summary": {
+    "headline": "Catalogue of Greek Astrologers",
+    "text": "Title of the scholarly work Catalogus Codicum Astrologorum Graecorum."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "sheet": "0205",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-t9vws5wx",
+      "text": "ἡ ἔκθεσις τῶν ζωδιακῶν σχημάτων. καὶ ἑτέρων",
+      "en": "The exposition of the zodiacal figures. And of other"
+    },
+    {
+      "n": 2,
+      "id": "L-ghqa7w42",
+      "text": "τινῶν σεσημειωμένων, ἐστὶν αὕτη:",
+      "en": "certain marked things, is this:"
+    },
+    {
+      "n": 3,
+      "id": "L-xwvhmcrf",
+      "text": "♄ κρόνος. ♃ ζεὺς ♂ ἄρης. ♀ ἀφροδίτη. ☉ ἥλιος.",
+      "en": "♄ Kronos. ♃ Zeus ♂ Ares. ♀ Aphrodite. ☉ Helios."
+    },
+    {
+      "n": 4,
+      "id": "L-t9qtgzjf",
+      "text": "☿ ἑρμῆς. ☾ σελήνη: ♈ κριός. ♉ ταῦρος. ♊ δίδυμοι.",
+      "en": "☿ Hermes. ☾ Selene: ♈ Aries. ♉ Taurus. ♊ Gemini."
+    },
+    {
+      "n": 5,
+      "id": "L-8hy5tw94",
+      "text": "♋ καρκίνος. ♌ λέων. ♍ παρθένος. ♎ ζυγός. ♏ σκορπίος. ♐",
+      "en": "♋ Cancer. ♌ Leo. ♍ Virgo. ♎ Libra. ♏ Scorpio. ♐"
+    },
+    {
+      "n": 6,
+      "id": "L-5htqfdtb",
+      "text": "τοξότης. ♑ αἰγόκερως. ♒ ὑδροχόος. ♓ ἰχθύες: ⚹ ἀστήρ.",
+      "en": "Sagittarius. ♑ Capricorn. ♒ Aquarius. ♓ Pisces: ⚹ star."
+    },
+    {
+      "n": 7,
+      "id": "L-6rjuhud8",
+      "text": "δ ἡμέρα. ρ νὺξ. σ μὴν. ☌ ἐπίφθεγμα. ☍ ὡροσκόπος.",
+      "en": "δ day. ρ night. σ month. ☌ epiphthegma. ☍ horoskopos."
+    },
+    {
+      "n": 8,
+      "id": "L-hfvb695f",
+      "text": "☊ ἡλίου. ☋ ὡροσκόπος. ☌ δῦνον. μεσ μεσουράνημα.",
+      "en": "☊ of the sun. ☋ horoskopos. ☌ setting. μεσ midheaven."
+    },
+    {
+      "n": 9,
+      "id": "L-t29y8jjs",
+      "text": "ὑπ ὑπόγειον. ὑπ ὑπόβαθρον. κ κέντρον. σ σημεῖον:",
+      "en": "ὑπ subterranean. ὑπ hypobathron. κ center. σ sign:"
+    },
+    {
+      "n": 10,
+      "id": "L-dqhqwnqk",
+      "text": "☌ σύνοδος. ☍ πανσέληνος. μοῖ μοῖρα. δ δαίμων.",
+      "en": "☌ conjunction. ☍ full moon. μοῖ degree. δ daimon."
+    },
+    {
+      "n": 11,
+      "id": "L-kg7dkb48",
+      "text": "τ τύχη. ☊ ὅτι. π πλευρὰ. ☊ ἀναβιβάζων.",
+      "en": "τ fortune. ☊ that. π side. ☊ ascending node."
+    },
+    {
+      "n": 12,
+      "id": "L-gmfvx6au",
+      "text": "☋ καταβιβάζων. ☍ διάμετρος. Δ τρίγωνον. ⚹",
+      "en": "☋ descending node. ☍ diameter. Δ trine. ⚹"
+    },
+    {
+      "n": 13,
+      "id": "L-72ktvwbv",
+      "text": "ἑξάγωνον. □ τετράγωνον. ⚹ ἀστέρος. με μεσημβρία.",
+      "en": "hexagon. □ square. ⚹ of a star. με noon."
+    },
+    {
+      "n": 14,
+      "id": "L-seu8cgqp",
+      "text": "βο βόρειον. νο νότιον. δά δάκτυλος. δά δακτυρίδιος.",
+      "en": "βο northern. νο southern. δά digit. δά daktyridios."
+    },
+    {
+      "n": 15,
+      "id": "L-2eexzc6g",
+      "text": "ψ ψώνημα. ἐπ ἐπίκυκλος. ⊕ σφαῖρα.",
+      "en": "ψ psonema. ἐπ epicycle. ⊕ sphere."
+    }
+  ],
+  "sections": [
+    {
+      "role": "header",
+      "text": "EXPLICATIO CHARACTERUM QUIBUS ASTRONOMICA VOCABULA INSIGNUNTUR.",
+      "en": "EXPLANATION OF THE CHARACTERS BY WHICH ASTRONOMICAL WORDS ARE DESIGNATED."
+    },
+    {
+      "role": "header",
+      "text": "EX CODICE LAURENTIANO XXVIII, 14, F. 309 (Catal., I, p. 37).",
+      "en": "FROM THE LAURENTIAN CODEX XXVIII, 14, F. 309 (Catal., I, p. 37)."
+    }
+  ],
+  "summary": {
+    "headline": "Astronomical Symbols and Terms",
+    "text": "Explanation of the signs and abbreviations used for astronomical vocabulary, listing planetary names and symbols, the twelve zodiac signs, nodes, angles, aspects, degrees, lots, epicycle, sphere, and other astrological terms from Laurentian Codex XXVIII, 14, folio 309."
+  }
+}

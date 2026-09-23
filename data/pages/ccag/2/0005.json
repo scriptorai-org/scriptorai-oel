@@ -1,0 +1,29 @@
+{
+  "sheet": "0005",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-hs58vtb6",
+      "text": "CATALOGUS",
+      "en": "CATALOGUE"
+    },
+    {
+      "n": 2,
+      "id": "L-xvgksmd7",
+      "text": "CODICUM",
+      "en": "OF MANUSCRIPTS"
+    },
+    {
+      "n": 3,
+      "id": "L-pgxxr5u3",
+      "text": "ASTROLOGORUM GRAECORUM",
+      "en": "OF GREEK ASTROLOGERS"
+    }
+  ],
+  "sections": [],
+  "summary": {
+    "headline": "Catalogue of Greek Astrologers",
+    "text": "Title page for the catalogue of Greek astrological manuscripts."
+  }
+}

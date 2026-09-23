@@ -1,0 +1,84 @@
+{
+  "sheet": "0009",
+  "page": 3,
+  "numbering": "roman",
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-bvdyxb9f",
+      "text": "CODICES FLORENTINOS",
+      "en": "FLORENTINE CODICES"
+    },
+    {
+      "n": 2,
+      "id": "L-nqqm2p3k",
+      "text": "DESCRIPSIT",
+      "en": "DESCRIBED"
+    },
+    {
+      "n": 3,
+      "id": "L-2j3s4eu9",
+      "text": "ALEXANDER OLIVIERI",
+      "en": null
+    },
+    {
+      "n": 4,
+      "id": "L-m6rmhnqj",
+      "text": "ACCEDUNT FRAGMENTA SELECTA",
+      "en": "WITH SELECTED FRAGMENTS ADDED"
+    },
+    {
+      "n": 5,
+      "id": "L-m4anuthk",
+      "text": "PRIMUM EDITA",
+      "en": "EDITED FOR THE FIRST TIME"
+    },
+    {
+      "n": 6,
+      "id": "L-um7fx8ju",
+      "text": "AB",
+      "en": null
+    },
+    {
+      "n": 7,
+      "id": "L-w6fqrk9q",
+      "text": "FRANCISCO BOLL, FRANCISCO CUMONT, GUILELMO KROLL,",
+      "en": "FRANZ BOLL, FRANZ CUMONT, WILHELM KROLL,"
+    },
+    {
+      "n": 8,
+      "id": "L-m7hy8dhb",
+      "text": "ALEXANDRO OLIVIERI",
+      "en": "ALEXANDER OLIVIERI"
+    },
+    {
+      "n": 9,
+      "id": "L-efkd7nft",
+      "text": "BRUXELLIS",
+      "en": "BRUSSELS"
+    },
+    {
+      "n": 10,
+      "id": "L-pvc7ccrd",
+      "text": "IN AEDIBUS HENRICI LAMERTIN",
+      "en": "IN THE PUBLISHING HOUSE OF HENRI LAMERTIN"
+    },
+    {
+      "n": 11,
+      "id": "L-as6efcwu",
+      "text": "20, RUE DU MARCHÉ AU BOIS, 20",
+      "en": null
+    },
+    {
+      "n": 12,
+      "id": "L-e4eyz8cf",
+      "text": "1898",
+      "en": "1898"
+    }
+  ],
+  "sections": [],
+  "summary": {
+    "headline": "Florentine Codices Title Page",
+    "text": "Title page for Catalogus codicum astrologorum Graecorum, volume I, presenting the Florentine codices, described by Alexander Olivieri and edited with selected fragments by Franz Boll, Franz Cumont, Wilhelm Kroll, and Alexander Olivieri. Published in Brussels by Henri Lamertin in 1898."
+  }
+}

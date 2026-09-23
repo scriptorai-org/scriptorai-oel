@@ -1,0 +1,136 @@
+{
+  "sheet": "0011",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-39zeh365",
+      "text": "که محاط بیک خط یا زیاده باشد انرا سطح مشکل خوانند پس اگر محاط بسه خط باشد انرا مثلث خوانند",
+      "en": "that is bounded by one line or more, they call it a figured surface. So if it is bounded by three lines, they call it a triangle"
+    },
+    {
+      "n": 2,
+      "id": "L-t3j9wxhd",
+      "text": "بر اینصورت مثلث و این باعتبار تساوی و اختلاف اضلاع سه قسم بود متساوی",
+      "en": "in this form: triangle. And this, with respect to the equality and difference of the sides, is of three kinds: equilateral,"
+    },
+    {
+      "n": 3,
+      "id": "L-xv4wehqx",
+      "text": "الاضلاع و متساوی الساقین و مختلف الاضلاع خوانند و اگر محاط بچهار خط باشد انرا",
+      "en": "isosceles, and scalene they call it. And if it is bounded by four lines, they call it"
+    },
+    {
+      "n": 4,
+      "id": "L-6bst7cbw",
+      "text": "ذو اربعه اضلاع خوانند و اینقسم بر پنجم بود اوّل انکه اضلاع او متساوی و زوایای",
+      "en": "a quadrilateral. And this kind is of five sorts. First, that its sides are equal and its angles"
+    },
+    {
+      "n": 5,
+      "id": "L-cu6ee6wb",
+      "text": "او قایمه باشد انرا مربع خوانند بر این شکل مربع دوّم انکه با تساوی زوایا",
+      "en": "are right, they call it a square, in this figure: square. Second, that with the equality of the angles,"
+    },
+    {
+      "n": 6,
+      "id": "L-2mb98emf",
+      "text": "اضلاع متساوی نباشد انرا مستطیل خوانند بر این شکل مستطیل سیم",
+      "en": "the sides are not equal, they call it a rectangle, in this figure: rectangle. Third,"
+    },
+    {
+      "n": 7,
+      "id": "L-aung2ku8",
+      "text": "انکه با تساوی اضلاع زوایا قایمه نباشد انرا معین خوانند بر این شکل معین چهارم",
+      "en": "that with the equality of the sides, the angles are not right, they call it a rhombus, in this figure: rhombus. Fourth,"
+    },
+    {
+      "n": 8,
+      "id": "L-bewn28jc",
+      "text": "انکه نه اضلاع متساوی بود و نه زوایا قایمه لیکن هر دو ضلع مقابل او برابر باشد انرا",
+      "en": "that neither the sides are equal nor the angles right, but every two opposite sides are equal, they call it"
+    },
+    {
+      "n": 9,
+      "id": "L-7e5evwdz",
+      "text": "شبه معین خوانند بر این شکل پنجم انکه برخلاف اقسام چهارگانه",
+      "en": "a rhomboid, in this figure. Fifth, that contrary to the four kinds,"
+    },
+    {
+      "n": 10,
+      "id": "L-h867rq5k",
+      "text": "باشد انرا منحرف خوانند بر این شکل منحرف و هر جسم که محاط یکسطح یا زیاده بود",
+      "en": "it is, they call it a trapezium, in this figure: trapezium. And every body that is bounded by one surface or more,"
+    },
+    {
+      "n": 11,
+      "id": "L-ajwtdnpy",
+      "text": "انرا جسم مشکل خوانند پس اگر بیک سطح محیط باشد چنانکه در اندرون ان نقطه فرض",
+      "en": "they call it a figured body. So if it is bounded by one surface, such that inside it a point is assumed"
+    },
+    {
+      "n": 12,
+      "id": "L-4puambpt",
+      "text": "توان کرد که خطوط مستقیمه واصله میان نقطه و انسطح متساوی المقدار بود ان جسم را",
+      "en": "that straight lines connecting the point and that surface are equal in magnitude, that body"
+    },
+    {
+      "n": 13,
+      "id": "L-xz7mxubq",
+      "text": "کره و ان سطح را محیط کره و سطح مستدیر نیز خوانند و این نقطه را مرکز و هر یک از",
+      "en": "they call a sphere, and that surface the circumference of the sphere and also a round surface, and this point the center, and each of"
+    },
+    {
+      "n": 14,
+      "id": "L-73cd2sbs",
+      "text": "ان خطوط را نصف قطر کره خوانند و دایره که از قطع سطح مستوی بر کره را حادث",
+      "en": "those lines the radius of the sphere. And the circle that is produced from the intersection of a plane surface on the sphere"
+    },
+    {
+      "n": 15,
+      "id": "L-hcstfyr6",
+      "text": "شود اگر قطع بر مرکز واقع شود انرا عظیمه خوانند والا صغیره و هر جسم که محاط",
+      "en": "if the intersection occurs on the center, they call it a great [circle], otherwise a small [circle]. And every body that is bounded"
+    },
+    {
+      "n": 16,
+      "id": "L-v454wmx5",
+      "text": "بسطحی بود که یک نهایت او نقطه بود و یک نهایت دیگر محیط دایره بر وجهی",
+      "en": "by a surface such that one of its extremities is a point and the other extremity is the circumference of a circle, in such a way"
+    },
+    {
+      "n": 17,
+      "id": "L-ehe7tm96",
+      "text": "که جمیع خطوط مستقیمه واصله بینهما از ان سطح بیرون نیفتد انرا مخروط مستدیر",
+      "en": "that all straight lines connecting them do not fall outside that surface, they call it a round cone,"
+    },
+    {
+      "n": 18,
+      "id": "L-gnka7efa",
+      "text": "خوانند و اندایره را قاعده مخروط و خط واصل میان مرکز این دایره و راس مخروط را",
+      "en": "and that circle the base of the cone, and the line connecting the center of this circle and the apex of the cone"
+    },
+    {
+      "n": 19,
+      "id": "L-4tjghtjy",
+      "text": "سهم مخروط خوانند هر خط که بر سطح قایم شود تخییلی که اگر خطوط مستقیمه از موضع",
+      "en": "the axis of the cone. Any line that stands perpendicular on a surface, imagining that if straight lines from the position"
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "۶",
+      "en": "6"
+    },
+    {
+      "role": "margin",
+      "text": "شبه معیّن",
+      "en": "Rhomboid"
+    }
+  ],
+  "summary": {
+    "headline": "Geometric Figures and Solids",
+    "text": "Definitions and classifications of plane figures and solids: triangles, quadrilaterals, squares, rectangles, rhombi, rhomboids, trapezia, spheres, great and small circles, and cones with their bases and axes."
+  }
+}

@@ -1,0 +1,39 @@
+name: Suggest a correction
+description: A line in the library reads wrong. Say which, and what the scan shows.
+title: "[correction] "
+labels: ["correction"]
+body:
+  - type: input
+    id: book
+    attributes:
+      label: Book
+      description: The book's short name, as the site's address shows it.
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The page, as the site's address shows it.
+    validations:
+      required: true
+  - type: input
+    id: line
+    attributes:
+      label: Line
+      description: The line's number on that page. Leave it blank for a report that names no line (a header, a margin note, a missing scan).
+  - type: textarea
+    id: current
+    attributes:
+      label: Current reading
+      description: The source line and its translation as the site prints them now. The link you followed fills this in.
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed reading
+      description: What the scan shows, transcribed, and the translation if you have one. "This looks wrong, but I don't know the right reading" is a welcome report.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything else the editor should know.

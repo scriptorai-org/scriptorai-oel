@@ -1,0 +1,143 @@
+{
+  "sheet": "0012",
+  "page": 8,
+  "numbering": "roman",
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-4d8abu6v",
+      "text": "notulasque complures quas e libro Angelico excerpserat,",
+      "en": "and several small notes which he had excerpted from the Angelicus book,"
+    },
+    {
+      "n": 2,
+      "id": "L-vcrucdqg",
+      "text": "petentibus nobis summa liberalitate commodavit Leo Par-",
+      "en": "Leo Parmentier of Liège lent to us upon our request with the greatest generosity,"
+    },
+    {
+      "n": 3,
+      "id": "L-5v2jypku",
+      "text": "mentier Leodiensis, qui ad textum quoque purgandum mul-",
+      "en": "who also contributed much to the cleaning of the text."
+    },
+    {
+      "n": 4,
+      "id": "L-9684qg64",
+      "text": "tum contulit. Apographa alia vel collationes codicum utenda",
+      "en": "Other copies or collations of codices to be used"
+    },
+    {
+      "n": 5,
+      "id": "L-7j4zfwaa",
+      "text": "nobis comiter miserunt Iosephus Laurent Nanceiensis,",
+      "en": "were kindly sent to us by Joseph Laurent of Nancy,"
+    },
+    {
+      "n": 6,
+      "id": "L-kjdmfkkb",
+      "text": "Daniel Serruys et Henricus Lebègue Parisini, Paulus Marc",
+      "en": "Daniel Serruys and Henri Lebègue of Paris, Paul Marc"
+    },
+    {
+      "n": 7,
+      "id": "L-2hq8ux8a",
+      "text": "et Iosephus Sickenberger Monacenses, Ioannes Graeven",
+      "en": "and Joseph Sickenberger of Munich, Johannes Graeven"
+    },
+    {
+      "n": 8,
+      "id": "L-57v8q5tx",
+      "text": "Trevir, Iosephus De Decker Gandavensis, Daniel Riccoboni",
+      "en": "of Trier, Joseph De Decker of Ghent, Daniel Riccoboni"
+    },
+    {
+      "n": 9,
+      "id": "L-s758n6dj",
+      "text": "Venetus atque in primis sodalis noster probatissimus",
+      "en": "of Venice and especially our most esteemed colleague"
+    },
+    {
+      "n": 10,
+      "id": "L-memfc3qg",
+      "text": "Dominicus Bassi Mediolanensis. De scriptoribus syriacis vel",
+      "en": "Domenico Bassi of Milan. Concerning Syriac or"
+    },
+    {
+      "n": 11,
+      "id": "L-uuutcut2",
+      "text": "arabicis Rubens Duval Parisinum, Carolum Dyroff Mona-",
+      "en": "Arabic writers we approached Rubens Duval of Paris, Karl Dyroff of Munich,"
+    },
+    {
+      "n": 12,
+      "id": "L-nkq5wjqz",
+      "text": "censem, Henricum Suter Turicensem nunquam frustra per",
+      "en": "Heinrich Suter of Zurich never in vain by"
+    },
+    {
+      "n": 13,
+      "id": "L-rq35ur2m",
+      "text": "epistulas adiimus. Multa in hoc quoque fragmentorum",
+      "en": "letters. Many things in this fascicle of fragments too"
+    },
+    {
+      "n": 14,
+      "id": "L-ecgc8g2m",
+      "text": "fasciculo consors operis nostri indefessus Guilelmus Kroll",
+      "en": "our tireless partner in the work Wilhelm Kroll"
+    },
+    {
+      "n": 15,
+      "id": "L-g8bhb5up",
+      "text": "feliciter interpretatus est vel sanavit. Praeterea in plagulis",
+      "en": "happily interpreted or healed. Furthermore in the proofs"
+    },
+    {
+      "n": 16,
+      "id": "L-c67gf9dy",
+      "text": "emendandis saepe nobis opitulati sunt collegae Ganda-",
+      "en": "to be emended often our colleagues of Ghent helped us"
+    },
+    {
+      "n": 17,
+      "id": "L-vctj5aux",
+      "text": "venses devotissimi Iosephus Bidez ac Paulus Thomas.",
+      "en": "the most devoted Joseph Bidez and Paul Thomas."
+    },
+    {
+      "n": 18,
+      "id": "L-sp33sqes",
+      "text": "Quorum omnium, viginti fere mensibus libro peracto, grato",
+      "en": "Of all of whom, the book having been finished in almost twenty months, with a grateful"
+    },
+    {
+      "n": 19,
+      "id": "L-kcc3ysm8",
+      "text": "memorique animo beneficia recolimus.",
+      "en": "and mindful spirit we recall the benefits."
+    },
+    {
+      "n": 20,
+      "id": "L-qa23dndx",
+      "text": "Scr. Bruxellis Idib. Novembr. MCMIV.",
+      "en": "Written at Brussels on the Ides of November 1904."
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "VIII",
+      "en": "8"
+    },
+    {
+      "role": "header",
+      "text": "CODICUM ROMANORUM",
+      "en": "OF THE ROMAN CODICES"
+    }
+  ],
+  "summary": {
+    "headline": "Acknowledgments and Editorial Assistance",
+    "text": "Acknowledgment of scholars who lent codex copies, collations, and textual assistance, including Leo Parmentier, Joseph Laurent, Domenico Bassi, Wilhelm Kroll, Joseph Bidez, and Paul Thomas; it records help with Syriac and Arabic writers and dates the completion at Brussels on 15 November 1904."
+  }
+}

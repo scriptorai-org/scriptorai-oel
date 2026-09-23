@@ -1,0 +1,143 @@
+{
+  "sheet": "0265",
+  "page": 253,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-ejujcquz",
+      "text": "TABULA ARGUMENTI",
+      "en": "TABLE OF CONTENTS"
+    },
+    {
+      "n": 2,
+      "id": "L-guukwkr6",
+      "text": "CATALOGUS CODICUM",
+      "en": "CATALOGUE OF MANUSCRIPTS"
+    },
+    {
+      "n": 3,
+      "id": "L-5xjqxfpq",
+      "text": "Bibliothecae minores :",
+      "en": "Minor libraries:"
+    },
+    {
+      "n": 4,
+      "id": "L-8c7f3m8p",
+      "text": "I. Codices Angelici . . . . . . . . . 3",
+      "en": "I. Angelican Manuscripts . . . . . . . . . 3"
+    },
+    {
+      "n": 5,
+      "id": "L-vqr4uxr9",
+      "text": "II. Codex Casanatensis . . . . . . . . 58",
+      "en": "II. Casanatense Manuscript . . . . . . . . 58"
+    },
+    {
+      "n": 6,
+      "id": "L-fj7pzkfu",
+      "text": "III. Codex Vallicellanus . . . . . . . . 59",
+      "en": "III. Vallicelliana Manuscript . . . . . . . . 59"
+    },
+    {
+      "n": 7,
+      "id": "L-zcw2yyzv",
+      "text": "Codices Vaticani . . . . . . . . . . 63",
+      "en": "Vatican Manuscripts . . . . . . . . . . 63"
+    },
+    {
+      "n": 8,
+      "id": "L-yx4psp4m",
+      "text": "APPENDIX",
+      "en": null
+    },
+    {
+      "n": 9,
+      "id": "L-rpdvva24",
+      "text": "DE ASTROLOGIS ANTIQUIS TESTIMONIUM NOVUM",
+      "en": "NEW TESTIMONY CONCERNING ANCIENT ASTROLOGERS"
+    },
+    {
+      "n": 10,
+      "id": "L-b5qv49fd",
+      "text": "Ex Alberti Magni \" speculo astronomico \" excerpta de libris licitis et pro-",
+      "en": "Excerpts from Albertus Magnus' \"Speculum Astronomiae\" concerning permitted and pro-"
+    },
+    {
+      "n": 11,
+      "id": "L-akypbjzc",
+      "text": "hibitis . . . . . . . . . . . 85",
+      "en": "hibited books . . . . . . . . . . . 85"
+    },
+    {
+      "n": 12,
+      "id": "L-a45pgf9s",
+      "text": "EXCERPTA EX CODICE 2 (ANGEL. 29)",
+      "en": "EXCERPTS FROM MANUSCRIPT 2 (ANGEL. 29)"
+    },
+    {
+      "n": 13,
+      "id": "L-zm3cx33u",
+      "text": "I. Imperatoris Manuel Commeni et Michael Glycae dispu-",
+      "en": "I. The disputation of Emperor Manuel Comnenus and Michael Glycas."
+    },
+    {
+      "n": 14,
+      "id": "L-rj4z4gt5",
+      "text": "tatio.",
+      "en": "tation."
+    },
+    {
+      "n": 15,
+      "id": "L-bgq9ckcz",
+      "text": "Prooemium . . . . . . . . . . 106",
+      "en": "Proem . . . . . . . . . . 106"
+    },
+    {
+      "n": 16,
+      "id": "L-njesyj97",
+      "text": "Manuel Commeni epistula . . . . . . . . 108",
+      "en": "Letter of Manuel Comnenus . . . . . . . . 108"
+    },
+    {
+      "n": 17,
+      "id": "L-dm8mxtk6",
+      "text": "Michael Glycae responsum . . . . . . . . 125",
+      "en": "Response of Michael Glycas . . . . . . . . 125"
+    },
+    {
+      "n": 18,
+      "id": "L-xc5hqa6z",
+      "text": "II. Ex libris mysteriorum Apomasaris.",
+      "en": "II. From the books of mysteries of Apomasar."
+    },
+    {
+      "n": 19,
+      "id": "L-z46k8unv",
+      "text": "Prooemium . . . . . . . . . . 142",
+      "en": "Proem . . . . . . . . . . 142"
+    },
+    {
+      "n": 20,
+      "id": "L-khzp9xzs",
+      "text": "L. II, c. 3. Περὶ τοῦ ὅτι τῆς Σελήνης τετραγωνιζούσης τὸν Ἄρην",
+      "en": "Book II, ch. 3. On the fact that when the Moon is in square with Mars"
+    },
+    {
+      "n": 21,
+      "id": "L-mx4xchpw",
+      "text": "λῃσταῖς περιπίπτει <ὁ> ἀποδημίας ποιησάμενος καταρ-",
+      "en": "he who makes a journey falls among robbers, having begun"
+    },
+    {
+      "n": 22,
+      "id": "L-eb8uum3m",
+      "text": "χήν . . . . . . . . . . . 144",
+      "en": "it . . . . . . . . . . . 144"
+    }
+  ],
+  "sections": [],
+  "summary": {
+    "headline": "Catalogue Contents and Astrological Excerpts",
+    "text": "Table of contents for the catalogue of Greek astrological manuscripts, listing Angelican, Casanatense, Vallicelliana, and Vatican collections, followed by an appendix on ancient astrologers. It includes Albertus Magnus’s Speculum Astronomiae and excerpts from Angel. 29 on Manuel Comnenus and Michael Glycas, and from Apomasar on the Moon square Mars causing a traveler to encounter robbers."
+  }
+}

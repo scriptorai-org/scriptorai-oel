@@ -1,0 +1,30 @@
+{
+  "sheet": "0007",
+  "page": 1,
+  "numbering": "roman",
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-g3tt3hx5",
+      "text": "CATALOGUS",
+      "en": "CATALOGUE"
+    },
+    {
+      "n": 2,
+      "id": "L-9my5db4t",
+      "text": "CODICUM",
+      "en": "OF MANUSCRIPTS"
+    },
+    {
+      "n": 3,
+      "id": "L-tkuhv8f8",
+      "text": "ASTROLOGORUM GRAECORUM",
+      "en": "OF GREEK ASTROLOGERS"
+    }
+  ],
+  "sections": [],
+  "summary": {
+    "headline": "Catalogue of Greek Astrologers",
+    "text": "Title page for Catalogus codicum astrologorum Graecorum, volume I, Codices Florentini."
+  }
+}

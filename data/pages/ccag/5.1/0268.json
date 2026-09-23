@@ -1,0 +1,93 @@
+{
+  "sheet": "0268",
+  "page": 256,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-veqm5u6x",
+      "text": "EXCERPTUM EX COD. 12 (VATIC. 1290)",
+      "en": "EXCERPT FROM CODEX 12 (VATICAN 1290)"
+    },
+    {
+      "n": 2,
+      "id": "L-tshy64s7",
+      "text": "Dodecaeteris Chaldaica.",
+      "en": "Chaldean Dodecaeteris."
+    },
+    {
+      "n": 3,
+      "id": "L-s6qsngn5",
+      "text": "Περὶ τῆς φύσεως τῶν ιβʹ ζῳδίων καὶ πρὸς τὰ ἐνιαυσία καταστήματα",
+      "en": "On the nature of the 12 zodiac signs and regarding the annual conditions"
+    },
+    {
+      "n": 4,
+      "id": "L-aj7ve25d",
+      "text": "τῶν φυσικῶν ἰδιωμάτων . . . . . . . . 241",
+      "en": "of the natural properties . . . . . . . . 241"
+    },
+    {
+      "n": 5,
+      "id": "L-wa6q7y9w",
+      "text": "ADDENDA ET CORRIGENDA . . . . . . . . 243",
+      "en": "ADDENDA AND CORRIGENDA . . . . . . . . 243"
+    },
+    {
+      "n": 6,
+      "id": "L-778p7chv",
+      "text": "INDICES",
+      "en": null
+    },
+    {
+      "n": 7,
+      "id": "L-qupkhr9w",
+      "text": "Index codicum : Consensus numerorum . . . . . . 245",
+      "en": "Index of codices: Consensus of numbers . . . . . . 245"
+    },
+    {
+      "n": 8,
+      "id": "L-6janhyrh",
+      "text": "Scriptores possessores codicum . . . . . 245",
+      "en": "Writers and owners of codices . . . . . 245"
+    },
+    {
+      "n": 9,
+      "id": "L-69hgq544",
+      "text": "Annorum notae in codicibus . . . . . . 246",
+      "en": "Notes of years in codices . . . . . . 246"
+    },
+    {
+      "n": 10,
+      "id": "L-87k7knn4",
+      "text": "Indices nominum : I. Nomina scriptorum . . . . . . 247",
+      "en": "Indices of names: I. Names of writers . . . . . . 247"
+    },
+    {
+      "n": 11,
+      "id": "L-6sxrkvw7",
+      "text": "II. Nomina cetera. . . . . . . . 250",
+      "en": "II. Other names. . . . . . . . 250"
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "256",
+      "en": "256"
+    },
+    {
+      "role": "header",
+      "text": "TABULA ARGUMENTI",
+      "en": "TABLE OF CONTENTS"
+    },
+    {
+      "role": "other",
+      "text": "BRUXELLIS. — TYPIS POLLEUNIS & CEUTERICK.",
+      "en": "BRUSSELS. — BY THE PRESS OF POLLEUNIS & CEUTERICK."
+    }
+  ],
+  "summary": {
+    "headline": "Chaldean Dodecaeteris and Indices",
+    "text": "Table of contents entries for the excerpt from Codex 12 (Vatican 1290), including the Chaldean Dodecaeteris on the twelve zodiac signs and annual natural conditions, followed by addenda and corrigenda and indices of codices, writers, owners, years, and names."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sheet": "0008",
+  "page": 1,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-v6b9cedy",
+      "text": "CODICES TAURINENSES",
+      "en": "TURIN CODICES"
+    }
+  ],
+  "sections": [
+    {
+      "role": "footnote",
+      "text": "COD. IV.",
+      "en": "COD. IV."
+    },
+    {
+      "role": "pagenum",
+      "text": "1",
+      "en": "1"
+    }
+  ]
+}

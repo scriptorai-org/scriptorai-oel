@@ -1,0 +1,112 @@
+{
+  "sheet": "0259",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-3kyh22rk",
+      "text": "الاقالیم | زحل | المشتری | المریخ | الشمس | الزهره | العطارد | القمر",
+      "en": "Climates | Saturn | Jupiter | Mars | Sun | Venus | Mercury | Moon"
+    },
+    {
+      "n": 2,
+      "id": "L-ehx54n7c",
+      "text": "الكواكب | اول | دوم | سیم | چهارم | پنجم | ششم | هفتم",
+      "en": "Planets | First | Second | Third | Fourth | Fifth | Sixth | Seventh"
+    },
+    {
+      "n": 3,
+      "id": "L-zerz3r7v",
+      "text": "الساعات | د و | ح س | ن د | ن ل | م ه | ن ل | ن و",
+      "en": "Hours | 4 6 | 8 60 | 50 4 | 50 30 | 40 5 | 50 30 | 50 6"
+    },
+    {
+      "n": 4,
+      "id": "L-x53dv6aj",
+      "text": "حمل | نو ل | ن ل | ره | نو | ما | مه | ح",
+      "en": "Aries | 56 30 | 50 30 | 205 | 56 | 41 | 45 | 8"
+    },
+    {
+      "n": 5,
+      "id": "L-anadct5w",
+      "text": "ثور | كك ح | ح ه | ح ك | بط ب | س ب | مد | مد ح",
+      "en": "Taurus | 22 8 | 8 5 | 8 20 | 9 2 | 60 2 | 44 | 44 8"
+    },
+    {
+      "n": 6,
+      "id": "L-v7qajfdz",
+      "text": "جوزا | كد | كب ب | كب مه | كب مو | كاك | ط س | كح",
+      "en": "Gemini | 24 | 22 2 | 22 45 | 22 46 | 21 20 | 9 60 | 28"
+    },
+    {
+      "n": 7,
+      "id": "L-s8v6nysm",
+      "text": "سرطان | ل ح | ل ل | ل لو | ل مه | ل مه | ل لد | ل مه",
+      "en": "Cancer | 30 8 | 30 30 | 30 36 | 30 45 | 30 45 | 30 34 | 30 45"
+    },
+    {
+      "n": 8,
+      "id": "L-x87nq87k",
+      "text": "اسد | ل ند | ل ب | ل لو | ل ح | ل ح | طط مو | ا ح",
+      "en": "Leo | 30 54 | 30 2 | 30 36 | 30 8 | 30 8 | 9 46 | 1 8"
+    },
+    {
+      "n": 9,
+      "id": "L-gvhnczhc",
+      "text": "سنبله | لا ك | ل د | ل لو | ل و | ل و | طط و | ا ح",
+      "en": "Virgo | 31 20 | 30 4 | 30 36 | 30 6 | 30 6 | 9 6 | 1 8"
+    },
+    {
+      "n": 10,
+      "id": "L-kuyfjm22",
+      "text": "میزان | ل مه | ل ح | ل لو | ل و | ل ح | طط و | ا مه",
+      "en": "Libra | 30 45 | 30 8 | 30 36 | 30 6 | 30 8 | 9 6 | 1 45"
+    },
+    {
+      "n": 11,
+      "id": "L-5kfqykb2",
+      "text": "عقرب | ل مه | ل ند | ل لو | ل ح | ل ح | ل لد | ل مه",
+      "en": "Scorpio | 30 45 | 30 54 | 30 36 | 30 8 | 30 8 | 30 34 | 30 45"
+    },
+    {
+      "n": 12,
+      "id": "L-q74qbp2q",
+      "text": "قوس | ل ح | ل ند | ل لو | ل مه | ل ح | ل لد | ل مه",
+      "en": "Sagittarius | 30 8 | 30 54 | 30 36 | 30 45 | 30 8 | 30 34 | 30 45"
+    },
+    {
+      "n": 13,
+      "id": "L-399rp9yq",
+      "text": "جدی | لا و | ل ب | طط نه | طط مو | ح م | ح و | ا مو",
+      "en": "Capricorn | 31 6 | 30 2 | 9 55 | 9 46 | 8 40 | 8 6 | 1 46"
+    },
+    {
+      "n": 14,
+      "id": "L-4m5tbnc2",
+      "text": "دلو | كك د | ل ل | كب ب | كب مو | كاك | ط س | كح",
+      "en": "Aquarius | 22 4 | 30 30 | 22 2 | 22 46 | 21 20 | 9 60 | 28"
+    },
+    {
+      "n": 15,
+      "id": "L-f5xye5se",
+      "text": "حوت | كك ح | مه ح | كب ب | بط ب | س ب | مد | مد ح",
+      "en": "Pisces | 22 8 | 45 8 | 22 2 | 9 2 | 60 2 | 44 | 44 8"
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "127",
+      "en": "127"
+    },
+    {
+      "role": "header",
+      "text": "مطالع البروج",
+      "en": "Ascensions of the Zodiac Signs"
+    }
+  ],
+  "summary": {
+    "headline": "Zodiac Sign Ascensions Table",
+    "text": "Table of the ascensions of the twelve zodiac signs, arranged by planetary climates and planetary hours for Saturn, Jupiter, Mars, the Sun, Venus, Mercury, and the Moon."
+  }
+}

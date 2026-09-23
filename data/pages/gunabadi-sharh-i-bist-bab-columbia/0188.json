@@ -1,0 +1,155 @@
+{
+  "sheet": "0188",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-7fweu94j",
+      "text": "جدول اثنی عشریه کواکب | جدول نوبهره کواکب",
+      "en": "Table of the twelve parts of the planets | Table of the nine parts of the planets"
+    },
+    {
+      "n": 2,
+      "id": "L-w4zbhab2",
+      "text": "الحمل | الثور | الجوزا | السرطان | الاسد | السنبله | المیزان | العقرب | القوس | الجدی | الدلو | الحوت | در | ما | اه | ط | الدقیقه | الدرجه",
+      "en": "Aries | Taurus | Gemini | Cancer | Leo | Virgo | Libra | Scorpio | Sagittarius | Capricorn | Aquarius | Pisces | Degrees | Minutes | 51 | 9 | Minute | Degree"
+    },
+    {
+      "n": 3,
+      "id": "L-5qwuhcy8",
+      "text": "م | و | م | ٤ | ٠ | ٣ | ٠ | ٤ | ٠ | ١ | ٠ | ٠ | ٤ | ٠ | ٥ | ٤ | ح | ز",
+      "en": "Mars | Venus | Mars | 4 | 0 | 3 | 0 | 4 | 0 | 1 | 0 | 0 | 4 | 0 | 5 | 4 | 8 | 7"
+    },
+    {
+      "n": 4,
+      "id": "L-pk2yca3j",
+      "text": "ش | م | ش | و | ٤ | م | ٤ | و | ١ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | م | و",
+      "en": "Sun | Mars | Sun | Venus | 4 | Mars | 4 | Venus | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Mars | Venus"
+    },
+    {
+      "n": 5,
+      "id": "L-km8u8mq6",
+      "text": "ش | و | ش | م | ٤ | و | ٤ | م | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٤ | ٠",
+      "en": "Sun | Venus | Sun | Mars | 4 | Venus | 4 | Mars | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 0"
+    },
+    {
+      "n": 6,
+      "id": "L-xexwzhwj",
+      "text": "ع | م | ع | و | ٣ | م | ٣ | و | ٠ | ٠ | ٠ | ٠ | و | ٠ | ٤ | ٤ | ح | ح",
+      "en": "Mercury | Mars | Mercury | Venus | 3 | Mars | 3 | Venus | 0 | 0 | 0 | 0 | Venus | 0 | 4 | 4 | 8 | 8"
+    },
+    {
+      "n": 7,
+      "id": "L-rbcqxp5e",
+      "text": "ع | و | ع | م | ٣ | و | ٣ | م | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | م | و",
+      "en": "Mercury | Venus | Mercury | Mars | 3 | Venus | 3 | Mars | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Mars | Venus"
+    },
+    {
+      "n": 8,
+      "id": "L-dm3crsmg",
+      "text": "م | م | م | و | ٤ | م | ٤ | و | ١ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٤ | ح",
+      "en": "Mars | Mars | Mars | Venus | 4 | Mars | 4 | Venus | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 8"
+    },
+    {
+      "n": 9,
+      "id": "L-z8brhgsv",
+      "text": "م | و | م | م | ٤ | و | ٤ | م | ٠ | ٠ | ٠ | ٠ | ط | ٠ | ٠ | ٠ | ح | ح",
+      "en": "Mars | Venus | Mars | Mars | 4 | Venus | 4 | Mars | 0 | 0 | 0 | 0 | 9 | 0 | 0 | 0 | 8 | 8"
+    },
+    {
+      "n": 10,
+      "id": "L-aws7wy6r",
+      "text": "ش | م | ش | و | ٣ | م | ٣ | و | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | م | و",
+      "en": "Sun | Mars | Sun | Venus | 3 | Mars | 3 | Venus | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Mars | Venus"
+    },
+    {
+      "n": 11,
+      "id": "L-yxu9kp7h",
+      "text": "ش | و | ش | م | ٣ | و | ٣ | م | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٤ | ٠",
+      "en": "Sun | Venus | Sun | Mars | 3 | Venus | 3 | Mars | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 0"
+    },
+    {
+      "n": 12,
+      "id": "L-p4zfr8qy",
+      "text": "ع | م | ع | و | ٤ | م | ٤ | و | ٠ | ٠ | ٠ | ٠ | جدول درجات دال علی العمی",
+      "en": "Mercury | Mars | Mercury | Venus | 4 | Mars | 4 | Venus | 0 | 0 | 0 | 0 | Table of degrees indicating blindness"
+    },
+    {
+      "n": 13,
+      "id": "L-8qmyvr3h",
+      "text": "ع | و | ع | م | ٤ | و | ٤ | م | ٠ | ٠ | ٠ | ٠ | فه | ٠ | شی | ٠ | لا | ٤",
+      "en": "Mercury | Venus | Mercury | Mars | 4 | Venus | 4 | Mars | 0 | 0 | 0 | 0 | 85 | 0 | Thing | 0 | No | 4"
+    },
+    {
+      "n": 14,
+      "id": "L-eqh64kny",
+      "text": "م | م | م | و | ٣ | م | ٣ | و | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | و | ١",
+      "en": "Mars | Mars | Mars | Venus | 3 | Mars | 3 | Venus | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Venus | 1"
+    },
+    {
+      "n": 15,
+      "id": "L-smvvvgky",
+      "text": "م | و | م | م | ٣ | و | ٣ | م | ٠ | ٠ | ٠ | ٠ | فه | ٠ | شی | ٠ | لا | ٠",
+      "en": "Mars | Venus | Mars | Mars | 3 | Venus | 3 | Mars | 0 | 0 | 0 | 0 | 85 | 0 | Thing | 0 | No | 0"
+    },
+    {
+      "n": 16,
+      "id": "L-m5rd3bhj",
+      "text": "ش | م | ش | و | ٤ | م | ٤ | و | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | خ | ٠",
+      "en": "Sun | Mars | Sun | Venus | 4 | Mars | 4 | Venus | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 600 | 0"
+    },
+    {
+      "n": 17,
+      "id": "L-wjkcxwjb",
+      "text": "ش | و | ش | م | ٤ | و | ٤ | م | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | م | ٠",
+      "en": "Sun | Venus | Sun | Mars | 4 | Venus | 4 | Mars | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | Mars | 0"
+    },
+    {
+      "n": 18,
+      "id": "L-cqs4uu9s",
+      "text": "ع | م | ع | و | ٣ | م | ٣ | و | ٠ | ٠ | ٠ | ٠ | فه | ٠ | شی | ٠ | لا | ٠",
+      "en": "Mercury | Mars | Mercury | Venus | 3 | Mars | 3 | Venus | 0 | 0 | 0 | 0 | 85 | 0 | Thing | 0 | No | 0"
+    },
+    {
+      "n": 19,
+      "id": "L-nwaupwmr",
+      "text": "ع | و | ع | م | ٣ | و | ٣ | م | ٠ | ٠ | ٠ | ٠ | فه | ٠ | شی | ٠ | لا | و",
+      "en": "Mercury | Venus | Mercury | Mars | 3 | Venus | 3 | Mars | 0 | 0 | 0 | 0 | 85 | 0 | Thing | 0 | No | Venus"
+    },
+    {
+      "n": 20,
+      "id": "L-t5fmmbv8",
+      "text": "م | م | م | و | ٤ | م | ٤ | و | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | خ | ٠",
+      "en": "Mars | Mars | Mars | Venus | 4 | Mars | 4 | Venus | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 600 | 0"
+    },
+    {
+      "n": 21,
+      "id": "L-jyrr8n3a",
+      "text": "م | و | م | م | ٤ | و | ٤ | م | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ا | ٠",
+      "en": "Mars | Venus | Mars | Mars | 4 | Venus | 4 | Mars | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0"
+    },
+    {
+      "n": 22,
+      "id": "L-fy3tygfm",
+      "text": "ش | م | ش | و | ٣ | م | ٣ | و | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | خ | ٠",
+      "en": "Sun | Mars | Sun | Venus | 3 | Mars | 3 | Venus | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 600 | 0"
+    },
+    {
+      "n": 23,
+      "id": "L-yr8zzx2c",
+      "text": "ش | و | ش | م | ٣ | و | ٣ | م | ٠ | ٠ | ٠ | ٠ | فه | ٠ | شی | ٠ | لا | ٠",
+      "en": "Sun | Venus | Sun | Mars | 3 | Venus | 3 | Mars | 0 | 0 | 0 | 0 | 85 | 0 | Thing | 0 | No | 0"
+    }
+  ],
+  "sections": [
+    {
+      "role": "other",
+      "text": "جدول درجات",
+      "en": "Table of degrees"
+    }
+  ],
+  "summary": {
+    "headline": "Planetary Parts and Blindness Degrees",
+    "text": "Astrological tables assign the twelve and nine planetary parts across the zodiac signs, with degree and minute columns and repeated allocations involving the Sun, Mars, Venus, and Mercury. A separate table gives degrees associated with blindness."
+  }
+}

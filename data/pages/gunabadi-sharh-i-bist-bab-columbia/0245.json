@@ -1,0 +1,94 @@
+{
+  "sheet": "0245",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-qpy7kb6k",
+      "text": "دارند و اعتقاد دیگر خط ستارگان نزد ربیع نزد خط ستارگان ماده در برج ماده",
+      "en": "They have another belief regarding the line of the stars near spring, near the line of the female stars in the female sign."
+    },
+    {
+      "n": 2,
+      "id": "L-73tcdbwf",
+      "text": "دیگر خط ستارگان در روز فوق الارض و ستارگان ماده در شب تحت الارض و جمله خطها",
+      "en": "Another is the line of the stars in the day above the earth, and the female stars in the night below the earth, and all the lines"
+    },
+    {
+      "n": 3,
+      "id": "L-rky538uk",
+      "text": "بر این قیاس باید کردن باب شانزدهم در بیان اوجات و جوزهرات بدانکه اوج",
+      "en": "must be made on this analogy. Chapter sixteen: On the explanation of apogees and nodes. Know that the apogee"
+    },
+    {
+      "n": 4,
+      "id": "L-p84yubwd",
+      "text": "جایی باشد از فلک که چون ستاره بدان جایگاه رسد غایت بلندی وی باشد",
+      "en": "is a place in the sphere that when a star reaches that place, it is its extreme height"
+    },
+    {
+      "n": 5,
+      "id": "L-tyq2sh3x",
+      "text": "از زمین و برابر آن حضیض خوانند و آن کوتاه ترین جایی باشد از فلک که چون",
+      "en": "from the earth, and opposite it they call the perigee, and that is the lowest place in the sphere that when"
+    },
+    {
+      "n": 6,
+      "id": "L-rv8kkrgk",
+      "text": "ستاره بدان جایگاه رسد غایت بلندی وی باشد از زمین و غایت قوّه کواکب",
+      "en": "a star reaches that place, it is its extreme height from the earth, and the extreme strength of the stars"
+    },
+    {
+      "n": 7,
+      "id": "L-779w2kbm",
+      "text": "در اوج باشد و غایت ضعف او در حضیض باشد و هر که که ستاره در نیمه اوّل باشد",
+      "en": "is in the apogee, and its extreme weakness is in the perigee, and whenever a star is in the first half"
+    },
+    {
+      "n": 8,
+      "id": "L-8xggh4fw",
+      "text": "اندر فلک اوج صاعد باشد و اوج در یکموضع ثابت نیست و در ده سال نه دقیقه",
+      "en": "in the sphere of the apogee, it is ascending, and the apogee is not fixed in one place, and in ten years it is nine minutes."
+    },
+    {
+      "n": 9,
+      "id": "L-j72wpf5w",
+      "text": "حرکت دارد و اوج بحقیقت از زیج توان دانست و صورت اوج و حضیض اینست",
+      "en": "It has motion, and the apogee in truth can be known from the astronomical tables, and the form of the apogee and perigee is this."
+    },
+    {
+      "n": 10,
+      "id": "L-yw3u2s7v",
+      "text": "امّا جوزهرات انجایگاهست که فلک ستاره و فلک شمس برهم افتد انرا جوزهرات خوانند",
+      "en": "But the nodes are that place where the sphere of the star and the sphere of the sun intersect; they call that the nodes."
+    },
+    {
+      "n": 11,
+      "id": "L-8hqdykwj",
+      "text": "و برابر وی ذنب خوانند و هر که که ستاره از جوزهر بذنب میشود عرضش شمالی بود",
+      "en": "And opposite to it they call the tail (descending node), and whenever a star goes from the node to the tail, its latitude is northern."
+    },
+    {
+      "n": 12,
+      "id": "L-f8z9vkhs",
+      "text": "و هر که که از ذنب بجوزهر میشود جنوبی و هر که که میان جوزهر ذنب باشد غایت",
+      "en": "And whenever it goes from the tail to the node, it is southern, and whenever it is between the node and the tail, it is the utmost"
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "120",
+      "en": "120"
+    },
+    {
+      "role": "other",
+      "text": "نیمه اول از فلک اوج که ستاره | صاعد باشد | اوج | نیمه دوم صاعد میشود | ممثل بفلك البروج | حضیض | نیمه دوم هابط میشود | ممثل بفلك البروج | میان اوج و حضیض",
+      "en": "First half of the sphere of the apogee where the star | is ascending | Apogee | Second half it is ascending | Representing the sphere of the zodiac | Perigee | Second half it is descending | Representing the sphere of the zodiac | Between apogee and perigee"
+    }
+  ],
+  "summary": {
+    "headline": "Apogees, Perigees, and Nodes",
+    "text": "Chapter sixteen explains apogees, perigees, and nodes: the apogee is a star’s greatest height and strength, the perigee its lowest position and weakness, and the apogee’s motion is determined from astronomical tables. It also defines the nodes as intersections of a star’s sphere with the Sun’s sphere and relates movement between the node and descending node to northern or southern latitude."
+  }
+}

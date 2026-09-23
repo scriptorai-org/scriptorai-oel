@@ -1,0 +1,147 @@
+{
+  "sheet": "0240",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-bnusrce5",
+      "text": "باب یازدهم از منسوبات کواکب بیان کنیم در این باب طبع کواکب و جوهر و شکلشان",
+      "en": "Chapter Eleven: On the attributions of the planets. We will explain in this chapter the nature of the planets, their essence, and their shape,"
+    },
+    {
+      "n": 2,
+      "id": "L-gc3be7x6",
+      "text": "و نسبت اعضا شان و جرم و فروار و سالها و سیر و مدت و رجعت و استقامت و",
+      "en": "and the attribution of their body parts, mass, fardar (planetary periods), years, motion, duration, retrogradation, direct motion, and"
+    },
+    {
+      "n": 3,
+      "id": "L-4wchcn8f",
+      "text": "مدت میان دو احتراق و عرضشان در شمال و جنوب",
+      "en": "the duration between two combustions, and their latitude in the north and south."
+    },
+    {
+      "n": 4,
+      "id": "L-kjsdsnah",
+      "text": "ستارگان | زحل | مشتری | مریخ | شمس | زهره | عطارد | قمر",
+      "en": "Stars | Saturn | Jupiter | Mars | Sun | Venus | Mercury | Moon"
+    },
+    {
+      "n": 5,
+      "id": "L-6642acqs",
+      "text": "طبع کواکب | سرد و خشک | گرم و تر | گرم و خشک | گرم و خشک | سرد و تر | ممتزج | سرد و تر",
+      "en": "Nature of the planets | Cold and dry | Hot and moist | Hot and dry | Hot and dry | Cold and moist | Mixed | Cold and moist"
+    },
+    {
+      "n": 6,
+      "id": "L-2n7fe5ys",
+      "text": "اقلیمشان | اوّل | دویم | سیّم | چهارم | پنجم | ششم | هفتم",
+      "en": "Their clime | First | Second | Third | Fourth | Fifth | Sixth | Seventh"
+    },
+    {
+      "n": 7,
+      "id": "L-h6tyzg34",
+      "text": "جوهرشان | سرب | رصاص | اهن | یاقوت | مس و مروارید | زیبق | نقره",
+      "en": "Their essence | Lead | Tin | Iron | Ruby | Copper and pearl | Quicksilver | Silver"
+    },
+    {
+      "n": 8,
+      "id": "L-hx38rnxe",
+      "text": "شکلشان | دراز باریک | معتدل | دراز | مدور | مدور | باریک | مثلث",
+      "en": "Their shape | Long and thin | Moderate | Long | Round | Round | Thin | Triangular"
+    },
+    {
+      "n": 9,
+      "id": "L-quhsm9pw",
+      "text": "نسبت اعضا | سپرز | روح جگر | زهره | دل | گرده | زبان | معده",
+      "en": "Attribution of body parts | Spleen | Spirit of the liver | Gallbladder | Heart | Kidney | Tongue | Stomach"
+    },
+    {
+      "n": 10,
+      "id": "L-6sd8tvs3",
+      "text": "جرمشان | نه درجه | نه درجه | هشت درجه | پانزده درجه | هفت درجه | هفت درجه | دوازده درجه",
+      "en": "Their mass | Nine degrees | Nine degrees | Eight degrees | Fifteen degrees | Seven degrees | Seven degrees | Twelve degrees"
+    },
+    {
+      "n": 11,
+      "id": "L-yts6hp7w",
+      "text": "فردارشان | یازده سال | دوازده سال | هفت سال | ده سال | هشت سال | سیزده سال | نه سال",
+      "en": "Their fardar | Eleven years | Twelve years | Seven years | Ten years | Eight years | Thirteen years | Nine years"
+    },
+    {
+      "n": 12,
+      "id": "L-hdnhq24v",
+      "text": "سال بزرگشان | پنجاه و هفت | هفتاد و نه | شصت و شش | صد و بیست | هشتاد و دو | هفتاد و شش | هشتاد و هشت",
+      "en": "Their great year | Fifty-seven | Seventy-nine | Sixty-six | One hundred and twenty | Eighty-two | Seventy-six | Eighty-eight"
+    },
+    {
+      "n": 13,
+      "id": "L-a44ns92f",
+      "text": "سال میانشان | چهل و سه و نیم | چهل و پنج و نیم | چهل و دو و نیم | سی و نه و نیم | چهل و پنج و نیم | چهل و هشت و نیم | سی و نه و نیم",
+      "en": "Their middle year | Forty-three and a half | Forty-five and a half | Forty-two and a half | Thirty-nine and a half | Forty-five and a half | Forty-eight and a half | Thirty-nine and a half"
+    },
+    {
+      "n": 14,
+      "id": "L-2vzjtsfg",
+      "text": "سال کوچکشان | سی سال | دوازده سال | پانزده سال | نوزده سال | هشت سال | سی سال | بیست و پنج سال",
+      "en": "Their small year | Thirty years | Twelve years | Fifteen years | Nineteen years | Eight years | Thirty years | Twenty-five years"
+    },
+    {
+      "n": 15,
+      "id": "L-r9hrderv",
+      "text": "سیر وسط هر روز | دو دقیقه | پنج دقیقه | سی و یک دقیقه | پنجاه و نه دقیقه | پنجاه و نه دقیقه | پنجاه و نه دقیقه | سیزده دقیقه",
+      "en": "Mean daily motion | Two minutes | Five minutes | Thirty-one minutes | Fifty-nine minutes | Fifty-nine minutes | Fifty-nine minutes | Thirteen minutes"
+    },
+    {
+      "n": 16,
+      "id": "L-meky63eb",
+      "text": "مدت استقامت | هشت ماه | نه ماه | سالی پانزده روز | استقامت ندارد کواکب | هجده ماه | پانزده روز | استقامت ندارد لا رجعه والا",
+      "en": "Duration of direct motion | Eight months | Nine months | A year and fifteen days | The planets have no direct motion | Eighteen months | Fifteen days | Has no direct motion, neither retrogradation nor"
+    },
+    {
+      "n": 17,
+      "id": "L-egxqjyqk",
+      "text": "مدت میان دو احتراق | سیصد و سیزده روز | سیصد و نود و هشت روز | هفتصد و هشتاد روز | ندارد | پانصد و هشتاد و سه روز | صد و پانزده روز | پیوسته اجتماع",
+      "en": "Duration between two combustions | Three hundred and thirteen days | Three hundred and ninety-eight days | Seven hundred and eighty days | None | Five hundred and eighty-three days | One hundred and fifteen days | Continuous conjunction"
+    },
+    {
+      "n": 18,
+      "id": "L-g9ppc8z8",
+      "text": "مدت میان دو رجعت | چهار ماه و نوزده روز | چهار ماه و یک روز | یک ماه و هشت روز | ندارد | چهل و دو روز | بیست و یک روز | هجده روز لا رجعت لا استقامت",
+      "en": "Duration between two retrogradations | Four months and nineteen days | Four months and one day | One month and eight days | None | Forty-two days | Twenty-one days | Eighteen days, no retrogradation, no direct motion"
+    },
+    {
+      "n": 19,
+      "id": "L-bx76wgz6",
+      "text": "عرض در شمال | سه درجه و دو دقیقه | یک درجه و سی دقیقه | چهار درجه و سی دقیقه | همه بطریق است عرض ندارد | هشت درجه و نه دقیقه | چهار درجه و هفت دقیقه | پنج درجه",
+      "en": "Latitude in the north | Three degrees and two minutes | One degree and thirty minutes | Four degrees and thirty minutes | All are by way of... has no latitude | Eight degrees and nine minutes | Four degrees and seven minutes | Five degrees"
+    },
+    {
+      "n": 20,
+      "id": "L-gkptt7ub",
+      "text": "عرض در جنوب غایت | سه درجه و پنج دقیقه | یک درجه و چهل دقیقه | شش درجه و سی دقیقه | در جنوب عرض ندارد | نه درجه | چهار درجه و سی دقیقه | پنج درجه",
+      "en": "Maximum latitude in the south | Three degrees and five minutes | One degree and forty minutes | Six degrees and thirty minutes | Has no latitude in the south | Nine degrees | Four degrees and thirty minutes | Five degrees"
+    }
+  ],
+  "sections": [
+    {
+      "role": "margin",
+      "text": "چهار درجه و نه دقیقه در جنوب سیزده درجه و ده دقیقه",
+      "en": "Four degrees and nine minutes in the south, thirteen degrees and ten minutes"
+    },
+    {
+      "role": "catchword",
+      "text": "باب دوازدهم",
+      "en": "Chapter Twelve"
+    },
+    {
+      "role": "margin",
+      "text": "چهار درجه و نه دقیقه",
+      "en": "Four degrees and nine minutes"
+    }
+  ],
+  "summary": {
+    "headline": "Planetary Attributions Table",
+    "text": "Chapter Eleven explains the planets’ natures, essences, shapes, bodily attributions, masses, fardar, planetary years, motions, combustion and retrogradation intervals, and northern and southern latitudes. A comparative table gives these attributes for Saturn, Jupiter, Mars, the Sun, Venus, Mercury, and the Moon."
+  }
+}

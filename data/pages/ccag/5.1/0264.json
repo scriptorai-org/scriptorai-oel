@@ -1,0 +1,52 @@
+{
+  "sheet": "0264",
+  "page": 252,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-hcbsmyb4",
+      "text": "Telesphorus 210, 12. | Uriel angelus 140, 24.",
+      "en": "Telesphorus 210, 12. | Uriel the angel 140, 24."
+    },
+    {
+      "n": 2,
+      "id": "L-r3geu97u",
+      "text": "Thesbites 122, 26. | Venus (dea) 210, 9; 225, 24.",
+      "en": "Thesbites 122, 26. | Venus (goddess) 210, 9; 225, 24."
+    },
+    {
+      "n": 3,
+      "id": "L-qm65caz2",
+      "text": "Thessalonica 116, 28; 136, n. 1; 137, 10. | Virgo Caelestis 199. n. 1.",
+      "en": "Thessalonica 116, 28; 136, n. 1; 137, 10. | Celestial Virgin 199. n. 1."
+    },
+    {
+      "n": 4,
+      "id": "L-2bt3ebzj",
+      "text": "Toletus 90, 9. | Wasit urbs 142, 2.",
+      "en": "Toledo 90, 9. | City of Wasit 142, 2."
+    },
+    {
+      "n": 5,
+      "id": "L-tb3pg6mq",
+      "text": "Turci 181, 25. | Yezdagerdi (aera), 89, ad v. 17.",
+      "en": "Turks 181, 25. | Yezdegerd (era), 89, at line 17."
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "252",
+      "en": "252"
+    },
+    {
+      "role": "header",
+      "text": "CODICUM ROMANORUM",
+      "en": "OF ROMAN CODICES"
+    }
+  ],
+  "summary": {
+    "headline": "Index of Names and Places",
+    "text": "Alphabetical index entries for Telesphorus, Uriel, Thesbites, Venus, Thessalonica, the Celestial Virgin, Toledo, Wasit, the Turks, and the Yezdegerd era, with references to the catalog pages."
+  }
+}

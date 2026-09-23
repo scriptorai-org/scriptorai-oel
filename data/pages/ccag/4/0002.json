@@ -1,0 +1,77 @@
+{
+  "sheet": "0002",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-tpeh4jg2",
+      "text": "CODICES ITALICOS",
+      "en": "ITALIAN CODICES"
+    },
+    {
+      "n": 2,
+      "id": "L-6ggdekuy",
+      "text": "PRAETER",
+      "en": "BESIDES"
+    },
+    {
+      "n": 3,
+      "id": "L-r463am93",
+      "text": "FLORENTINOS, VENETOS, MEDIOLANENSES, ROMANOS",
+      "en": "FLORENTINE, VENETIAN, MILANESE, ROMAN"
+    },
+    {
+      "n": 4,
+      "id": "L-hqyu45ef",
+      "text": "DESCRIPSERUNT",
+      "en": "DESCRIBED BY"
+    },
+    {
+      "n": 5,
+      "id": "L-shfwymjk",
+      "text": "DOMINICUS BASSI, FRANCISCUS CUMONT,",
+      "en": "DOMENICO BASSI, FRANZ CUMONT,"
+    },
+    {
+      "n": 6,
+      "id": "L-g35yecr6",
+      "text": "AEMYGDIUS MARTINI, ALEXANDER OLIVIERI.",
+      "en": "EMIDIO MARTINI, ALESSANDRO OLIVIERI."
+    },
+    {
+      "n": 7,
+      "id": "L-88g8ktxy",
+      "text": "IV",
+      "en": "IV"
+    },
+    {
+      "n": 8,
+      "id": "L-rqnr2cvv",
+      "text": "BRUXELLIS",
+      "en": "BRUSSELS"
+    },
+    {
+      "n": 9,
+      "id": "L-dsmwcybt",
+      "text": "IN AEDIBUS HENRICI LAMERTIN",
+      "en": "IN THE HOUSE OF HENRI LAMERTIN"
+    },
+    {
+      "n": 10,
+      "id": "L-dwxamf64",
+      "text": "20, RUE DU MARCHÉ AU BOIS, 20",
+      "en": "20, WOOD MARKET STREET, 20"
+    },
+    {
+      "n": 11,
+      "id": "L-ahu3jumt",
+      "text": "1903",
+      "en": "1903"
+    }
+  ],
+  "sections": [],
+  "summary": {
+    "headline": "Italian Codices",
+    "text": "Title page for Italian codices besides the Florentine, Venetian, Milanese, and Roman collections, described by Domenico Bassi, Franz Cumont, Emidio Martini, and Alessandro Olivieri; published in Brussels in 1903 by Henri Lamertin."
+  }
+}

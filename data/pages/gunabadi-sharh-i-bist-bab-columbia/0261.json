@@ -1,0 +1,101 @@
+{
+  "sheet": "0261",
+  "page": null,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-hffec6hp",
+      "text": "باب بیست و ششم در درازی و کوتاهی کواکب در بروج",
+      "en": "Chapter twenty-six: On the length and shortness of the planets in the zodiac signs"
+    },
+    {
+      "n": 2,
+      "id": "L-z8tq757y",
+      "text": "الکواکب | شمس | قمر | زحل | مشتری | مریخ | زهره | عطارد",
+      "en": "The Planets | Sun | Moon | Saturn | Jupiter | Mars | Venus | Mercury"
+    },
+    {
+      "n": 3,
+      "id": "L-4kzser3h",
+      "text": "الحمل | سخت دراز | معتدل | سخت دراز | دراز | سخت دراز | معتدل | سخت دراز",
+      "en": "Aries | Very long | Moderate | Very long | Long | Very long | Moderate | Very long"
+    },
+    {
+      "n": 4,
+      "id": "L-ktvjn33u",
+      "text": "الثور | سخت دراز | معتدل | سخت دراز | معتدل | سخت دراز | معتدل | سخت دراز",
+      "en": "Taurus | Very long | Moderate | Very long | Moderate | Very long | Moderate | Very long"
+    },
+    {
+      "n": 5,
+      "id": "L-542brryk",
+      "text": "الجوزا | سخت دراز | کوتاه | کوتاه | معتدل | دراز | کوتاه | معتدل",
+      "en": "Gemini | Very long | Short | Short | Moderate | Long | Short | Moderate"
+    },
+    {
+      "n": 6,
+      "id": "L-haw9hx9h",
+      "text": "سرطان | معتدل | کوتاه | کوتاه | کوتاه | معتدل | کوتاه | کوتاه",
+      "en": "Cancer | Moderate | Short | Short | Short | Moderate | Short | Short"
+    },
+    {
+      "n": 7,
+      "id": "L-ueq9uz72",
+      "text": "الاسد | سخت دراز | معتدل | کوتاه | دراز | سخت دراز | معتدل | سخت دراز",
+      "en": "Leo | Very long | Moderate | Short | Long | Very long | Moderate | Very long"
+    },
+    {
+      "n": 8,
+      "id": "L-zmk795s9",
+      "text": "سنبله | دراز | سخت کوتاه | معتدل | معتدل | سخت دراز | معتدل | سخت دراز",
+      "en": "Virgo | Long | Very short | Moderate | Moderate | Very long | Moderate | Very long"
+    },
+    {
+      "n": 9,
+      "id": "L-wfy67fhy",
+      "text": "المیزان | دراز | کوتاه | معتدل | معتدل | دراز | کوتاه | معتدل",
+      "en": "Libra | Long | Short | Moderate | Moderate | Long | Short | Moderate"
+    },
+    {
+      "n": 10,
+      "id": "L-56ff4v65",
+      "text": "عقرب | معتدل | سخت دراز | کوتاه | سخت دراز | معتدل | سخت کوتاه | کوتاه",
+      "en": "Scorpio | Moderate | Very long | Short | Very long | Moderate | Very short | Short"
+    },
+    {
+      "n": 11,
+      "id": "L-3khw2w7f",
+      "text": "القوس | سخت دراز | معتدل | سخت دراز | سخت دراز | سخت دراز | معتدل | سخت دراز",
+      "en": "Sagittarius | Very long | Moderate | Very long | Very long | Very long | Moderate | Very long"
+    },
+    {
+      "n": 12,
+      "id": "L-hjat47xq",
+      "text": "جدی | سخت دراز | معتدل | سخت دراز | معتدل | سخت دراز | کوتاه | معتدل",
+      "en": "Capricorn | Very long | Moderate | Very long | Moderate | Very long | Short | Moderate"
+    },
+    {
+      "n": 13,
+      "id": "L-fdgkejqh",
+      "text": "الدلو | دراز | کوتاه | سخت دراز | معتدل | سخت دراز | کوتاه | معتدل",
+      "en": "Aquarius | Long | Short | Very long | Moderate | Very long | Short | Moderate"
+    },
+    {
+      "n": 14,
+      "id": "L-bhwwz9f8",
+      "text": "الحوت | معتدل | سخت کوتاه | کوتاه | کوتاه | معتدل | سخت کوتاه | کوتاه",
+      "en": "Pisces | Moderate | Very short | Short | Short | Moderate | Very short | Short"
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "128",
+      "en": "128"
+    }
+  ],
+  "summary": {
+    "headline": "Planetary Lengths by Zodiac Sign",
+    "text": "Chapter twenty-six presents a table classifying the Sun, Moon, Saturn, Jupiter, Mars, Venus, and Mercury as very long, long, moderate, short, or very short in each of the twelve zodiac signs."
+  }
+}

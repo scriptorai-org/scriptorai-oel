@@ -1,0 +1,87 @@
+{
+  "sheet": "0005c",
+  "page": 8,
+  "numbering": "roman",
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-spuqzgc8",
+      "text": "cum (p. 79-80) nobis obtulit, molestum indicis conficiendi",
+      "en": "offered to us (p. 79-80), undertook the troublesome labor of compiling the index."
+    },
+    {
+      "n": 2,
+      "id": "L-acknywng",
+      "text": "laborem suscepit. Fautori incepti nostri Hermanno Usener,",
+      "en": "To the patron of our undertaking, Hermann Usener,"
+    },
+    {
+      "n": 3,
+      "id": "L-h2vvdrxp",
+      "text": "collegae nostro devotissimo Iosepho Bidez post hunc quoque",
+      "en": "and to our most devoted colleague Joseph Bidez, after this volume too"
+    },
+    {
+      "n": 4,
+      "id": "L-f7zqsht8",
+      "text": "tomum absolutum gratias agimus maximas. Summa libera-",
+      "en": "has been completed, we give the greatest thanks. With the utmost generosity"
+    },
+    {
+      "n": 5,
+      "id": "L-vvfqe64b",
+      "text": "litate nos devinxerunt Bibliothecae Marcianae praefecti, qui",
+      "en": "the prefects of the Marciana Library have bound us to them, who"
+    },
+    {
+      "n": 6,
+      "id": "L-nvzgsb7v",
+      "text": "codices suos Bononiam, Vrastislaviam, Monachum, Ganda-",
+      "en": "did not refuse to transmit their codices to Bologna, Breslau, Munich, and Ghent."
+    },
+    {
+      "n": 7,
+      "id": "L-z7pnkemp",
+      "text": "vum transmittere non recusaverunt.",
+      "en": "-vum they did not refuse to transmit."
+    },
+    {
+      "n": 8,
+      "id": "L-at2we2s7",
+      "text": "Scr. Bruxellis kal. Mart. MCM.",
+      "en": "Written at Brussels, the Kalends of March, 1900."
+    },
+    {
+      "n": 9,
+      "id": "L-rrqxsy42",
+      "text": "F. C.",
+      "en": "F. C."
+    }
+  ],
+  "sections": [
+    {
+      "role": "pagenum",
+      "text": "VIII",
+      "en": "8"
+    },
+    {
+      "role": "header",
+      "text": "CODICES VENETI",
+      "en": "VENETIAN CODICES"
+    },
+    {
+      "role": "other",
+      "text": "Scr. Bruxellis kal. Mart. MCM.",
+      "en": "Written at Brussels, Kalends of March 1900."
+    },
+    {
+      "role": "other",
+      "text": "F. C.",
+      "en": "F. C."
+    }
+  ],
+  "summary": {
+    "headline": "Acknowledgments and Colophon",
+    "text": "Acknowledgments to Hermann Usener and Joseph Bidez, with thanks to the prefects of the Marciana Library for transmitting codices to Bologna, Breslau, Munich, and Ghent. Dated Brussels, 1 March 1900, and signed F. C."
+  }
+}

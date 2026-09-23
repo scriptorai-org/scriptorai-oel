@@ -1,0 +1,137 @@
+{
+  "sheet": "0025",
+  "page": 22,
+  "lines": [
+    {
+      "n": 1,
+      "id": "L-mcbsqxfg",
+      "text": "INDEX CODICUM",
+      "en": "INDEX OF CODICES"
+    },
+    {
+      "n": 2,
+      "id": "L-98qmzzww",
+      "text": "Affinitates codicum.",
+      "en": "Affinities of the codices."
+    },
+    {
+      "n": 3,
+      "id": "L-bktywmx5",
+      "text": "Cod. 5¹ = Codd. 21¹, 24 f. 19ᵛ, 28 f. 57, 30 f. 4.",
+      "en": "Cod. 5¹ = Codd. 21¹, 24 f. 19ᵛ, 28 f. 57, 30 f. 4."
+    },
+    {
+      "n": 4,
+      "id": "L-pd3kuazx",
+      "text": "Cod. 5² (lacun.) = Codd. 24 f. 20, 31.",
+      "en": "Cod. 5² (with lacunae) = Codd. 24 f. 20, 31."
+    },
+    {
+      "n": 5,
+      "id": "L-ez7w78bt",
+      "text": "Cod. 6 = Cod. 28 f. 86ᵛ.",
+      "en": "Cod. 6 = Cod. 28 f. 86ᵛ."
+    },
+    {
+      "n": 6,
+      "id": "L-5ur5mpyf",
+      "text": "Cod. 7 f. 147ᵛ (partim) = Cod. 21².",
+      "en": "Cod. 7 f. 147v (partly) = Cod. 21²."
+    },
+    {
+      "n": 7,
+      "id": "L-dnv8md65",
+      "text": "Cod. 10 f. 29 = Codd. 20 f. 189ᵛ, 27 f. 111, 33 f. 256 (mut.), 34.",
+      "en": "Cod. 10 f. 29 = Codd. 20 f. 189ᵛ, 27 f. 111, 33 f. 256 (mut.), 34."
+    },
+    {
+      "n": 8,
+      "id": "L-kwm8rdn2",
+      "text": "Cod. 10 f. 35 = Codd. 20 f. 191 (imperf.), 27 f. 114.",
+      "en": "Cod. 10 f. 35 = Codd. 20 f. 191 (imperfect), 27 f. 114."
+    },
+    {
+      "n": 9,
+      "id": "L-tpavyeqe",
+      "text": "Cod. 10 f. 37 = Cod. 27 f. 125.",
+      "en": "Cod. 10 f. 37 = Cod. 27 f. 125."
+    },
+    {
+      "n": 10,
+      "id": "L-hm7qyt9q",
+      "text": "Cod. 10 f. 38ᵛ = Codd. 20 f. 180, 25 f. 147ᵛ, 27 f. 116.",
+      "en": "Cod. 10 f. 38ᵛ = Codd. 20 f. 180, 25 f. 147ᵛ, 27 f. 116."
+    },
+    {
+      "n": 11,
+      "id": "L-xnr6ey79",
+      "text": "Cod. 12 f. 191ᵛ (imperf.) = Cod. 26.",
+      "en": "Cod. 12 f. 191v (imperfect) = Cod. 26."
+    },
+    {
+      "n": 12,
+      "id": "L-6hgtv7dw",
+      "text": "Cod. 20 f. 176ᵛ = Cod. 25, f. 159ᵛ.",
+      "en": "Cod. 20 f. 176ᵛ = Cod. 25, f. 159ᵛ."
+    },
+    {
+      "n": 13,
+      "id": "L-n9ed2eb4",
+      "text": "Cod. 28 f. 54 = Cod. 30, f. 1.",
+      "en": "Cod. 28 f. 54 = Cod. 30, f. 1."
+    },
+    {
+      "n": 14,
+      "id": "L-k765c7wu",
+      "text": "Cod. 32 = Cod. 33 f. 247 ss.",
+      "en": "Cod. 32 = Cod. 33 f. 247 ss."
+    },
+    {
+      "n": 15,
+      "id": "L-p68388eg",
+      "text": "Annorum notae in codd. obviae.",
+      "en": "Notes of years found in the codices."
+    },
+    {
+      "n": 16,
+      "id": "L-4aj4bshq",
+      "text": "Cod. 2 a. 1542.",
+      "en": "Cod. 2 a. 1542."
+    },
+    {
+      "n": 17,
+      "id": "L-955vnj26",
+      "text": "Cod. 22 a. 1463?",
+      "en": "Cod. 22 a. 1463?"
+    },
+    {
+      "n": 18,
+      "id": "L-fg8h563a",
+      "text": "S(criptores), P(ossessores) codd.",
+      "en": "S(criptores), P(ossessores) codd."
+    },
+    {
+      "n": 19,
+      "id": "L-es3x9e8f",
+      "text": "Sebastianus Thomas Corcyrensis, cod. 2 (S.).",
+      "en": "Sebastian Thomas of Corfu, cod. 2 (S.)."
+    },
+    {
+      "n": 20,
+      "id": "L-6b9jgyvp",
+      "text": "<Iohannes> Docianus, cod. 22 (P. [et S.?]).",
+      "en": "<Iohannes> Docianus, cod. 22 (P. [et S.?])."
+    }
+  ],
+  "sections": [
+    {
+      "role": "header",
+      "text": "INDEX CODICUM",
+      "en": "INDEX OF CODICES"
+    }
+  ],
+  "summary": {
+    "headline": "Index of Codices",
+    "text": "Index of codices detailing affinities among Milanese manuscripts, with folio correspondences and notes of dates found in Codices 2 and 22. It identifies Sebastianus Thomas Corcyrensis as scribe of Codex 2 and <Iohannes> Docianus as possessor and possibly scribe of Codex 22."
+  }
+}
